@@ -12,7 +12,7 @@ For doing so we are going to dive a little bit in their history and origins, exp
 
 Let’s go!
 
-##What are APIs
+## What are APIs
 
 APIs are just the nickname of Application Programming Interfaces, a tool that facilitates the communication and relationship between two applications. It’s the way two machines are able to exchange messages or data and understand each other. 
 
@@ -22,12 +22,11 @@ For communicating we need to be on the same page, as machines need too.  Pretty 
 
 Each API is designed in a particular programming language and with distinct specifications that define it (APIs may include specifications for data structures and routines, object classes or variables, from which the use of that interface is based). 
 
-
 For doing things easier, it is common for each API to have complete and effective documentation (a set of tutorials, manuals and best practice rules for that programming interface).
 
 APIs are an essential part of the development process of any application. However, it remains hidden for the end user. They are the great unknowns. The magic trick that makes things work. Undisclosed!
 
-##Brief history of APIs
+## Brief history of APIs
 
 When and how APIs were born? APIs are not that old, you know? The API story took baby steps until around the beginning of the new millennium. Was then when APIs were growing fast until become the fundamental piece of the digital world where we live today. 
 
@@ -51,18 +50,21 @@ Since 2010 the prevalence of the public API has skyrocketed. Mobiles finally bro
 
 E-commerce, Social media, cloud computing, mobility… Definitely, and without no doubts, we are currently living in the Web API era.
 
-##Types of APIs
+## Types of APIs
 
 There are 4 types of APIs: 
 
 - **Web services APIs**: these are the application development interfaces that enable the exchange of information between a web service (software that provides access to a particular service via a URL) and an application. 
 
-There are four types of Web services APIs:
+    There are four types of Web services APIs:
 
-•	SOAP (Simple Object Access Protocol), a standard protocol for exchanging information and data in XML between two objects.
-•	XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.
-• JSON-RPC, the same protocol but in JSON format. 
-•	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API uses the HTTP protocol.
+    •	SOAP (Simple Object Access Protocol), a standard protocol for exchanging information and data in XML between two objects.
+
+    •	XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.
+
+    • JSON-RPC, the same protocol but in JSON format. 
+
+    •	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API uses the HTTP protocol.
 
 - **Library-based APIs**: these types of APIs are those that allow an application to import a library from other software to exchange information. Nowadays, most of the libraries that provide access to products and services are designed in JavaScript.
 
@@ -70,7 +72,7 @@ There are four types of Web services APIs:
 
 - **Function APIs in operating systems**: software programs are continuously interacting with operating systems. In many cases, the way they do so is through APIs. Operating systems such as Windows have APIs that enable such communication between programs and the OS.
 
-##Benefits os APIs
+## Benefits os APIs
 
 There are many benefits of APIs, it can be highlighted:
 
@@ -86,7 +88,7 @@ There are many benefits of APIs, it can be highlighted:
 
 - **Integration**: APIs allow content to be more easily embedded from any site or application. This ensures seamless information delivery and an integrated user experience.
 
-##Example of an API
+## Example of an API
 
 I think it would be great to give some example of API related to AsyncAPI, any idea or suggestion?
 
