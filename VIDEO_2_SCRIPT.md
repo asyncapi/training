@@ -11,13 +11,13 @@
 
 Hello everyone! Welcome!
 
-In this video we are going to talk about web architecture. We will try to explain its meaning, discover what it brings and what it is used for and analyze the different types of architecture that exist.  
+In this video, we are going to talk about web architecture. We will try to explain its meaning, discover what it brings and what it is used for, and analyze the different types of architecture that exist.  
 
 ## Web Architecture definition 
 
-Web architecture is the way in which the pages of a website are structured and linked together in a logical and coherent manner. It could be said to refer to the planning and design of the technical, functional and visual components of a website before it is finally developed and implemented.
+Web architecture is the way in which the pages of a website are structured and linked together in a logical and coherent manner. It could be said to refer to the planning and design of the technical, functional, and visual components of a website before it is finally developed and implemented.
 
-The main objective of web architecture is to achieve the goal of solving each of the needs of a website in the best possible way. It is there for seeking a good user experience. For doing so the structure of the website should be logical, optimized and efficient.
+The main objective of web architecture is to achieve the goal of solving each of the needs of a website in the best possible way. It is there for seeking a good user experience. For doing so the structure of the website should be logical, optimized, and efficient.
 
 Web architecture is closely related to the Search Engine Optimization
 (SEO). A simple, organized and coherently designed architecture facilitates the indexing and tracking of a website in search engines. Thus, SEO results depend exclusively on the quality of the structure and design of the website architecture.
@@ -26,9 +26,9 @@ Very often “less is better!”
 
 ## Monolithic architecture
 
-Monolithic architecture describes buildings which are carved, cast or excavated from a single piece of material, historically from rock. This is the traditional structure for software applications. Monolithic is an end-to-end architecture, in which all aspects of the software function as a single unit. 
+Monolithic architecture describes buildings which are carved, cast, or excavated from a single piece of material, historically from rock. This is the traditional structure for software applications. Monolithic is an end-to-end architecture, in which all aspects of the software function as a single unit. 
 
-Analysts often compare it to microservices, a newer model for application development. In the microservices model, components are modular, work independently and are coupled together as needed for optimal functionality.
+Analysts often compare it to microservices, a newer model for application development. In the microservices model, components are modular, work independently, and are coupled together as needed for optimal functionality.
 
 It has three components that interact with a single database:
 
@@ -52,13 +52,11 @@ The problems of this type of architecture, such as scalability or the difficulty
 
 Microservices architecture is a software application development method that works as a set of small services that run independently and autonomously, providing complete functionality. In it, each microservice is a code that can be in a different programming language, and that performs a specific function. 
 
-Microservices communicate with each other through APIs, and have their own storage systems which avoids overloading and crashing the application.
-
-Microservices have created more adaptable and flexible IT infrastructures. Because if you want to modify only one service, you don't need to alter the rest of the infrastructure. Each of the services can be deployed and modified without affecting other services or functional aspects of the application.
+Microservices communicate with each other through APIs and have their own storage systems which avoids overloading and crashing the application.
 
 Advantages of implementing microservices architecture:
 
-- **Maintainability**: the application can be divided into several functional and independent parts. In case you need to modify an application functionality, only the affected component will be deployed.
+- **Maintainability**: the application can be divided into several functional and independent parts. In case you need to modify application functionality, only the affected component will be deployed.
 
 - **Simultaneity**: while one team is busy developing one of the components, other teams can be performing maintenance or enhancements to other components without interruption.
 
@@ -68,7 +66,9 @@ This model also has disadvantages such as the complexity of versioning or the pr
 
 ## Layered or N-tier 
 
-N-tier architecture is a client-server architecture concept in software engineering in which data presentation, processing and management functions are separated both logically and physically. Each of these functions runs on a separate machine or in separate clusters, so that each can provide services at its maximum capacity, since resources are not shared. This separation makes it easier to manage each of them in different layers, since work on one of them does not affect the others, isolating any problems that may arise.
+N-tier architecture is a client-server architecture concept in which data presentation, processing, and management functions are separated both logically and physically. 
+
+Each of these functions runs on a separate machine or in separate clusters, so that each can provide services at its maximum capacity, since resources are not shared. This separation makes it easier to manage each of them in different layers, since work on one of them does not affect the others, isolating any problems that may arise.
 
 N-Tiers architectures have at least 3 separate logical levels. Each layer has a specific functionality for which it is responsible and is located on different physical servers. A layer is deployed in a tier if more than one service or application is dependent on the functionality exposed by the layer. N-tier architecture is also known as multi-tier architecture.
 
@@ -87,24 +87,25 @@ Service-Oriented Architecture, also known as SOA is a type of software architect
 
 SOA architecture makes it possible to integrate software elements that are implemented and maintained separately, allowing them to communicate with each other and work together to form software applications in different systems. Each SOA service is independent of the others and can be replaced or upgraded without breaking with the applications it connects.  
 
-Services are distributable. They can be located anywhere on the network as long as it supports the required communication protocols.  In an SOA architecture, services share contracts and schemas when communicating, not internal classes.  They are as well policy-compliant, understanding policies as the definition of characteristics such as transport, protocol or security.  
+Services are distributable. They can be located anywhere on the network as long as it supports the required communication protocols.  In an SOA architecture, services share contracts and schemas when communicating, not internal classes.  They are as well policy-compliant, understanding policies as the definition of characteristics such as transport, protocol, or security.  
 
 Advantages of using this model:
 
 - **Efficiency**: processes are very efficient.
 - **Maintainability**: Reduced maintenance costs.
 - **Adaptability**: Facilitates adaptation to change, with integration with legacy systems.
-- **Dynamics**: Encouragement of innovation oriented to the development of services, in line with market dynamism. Systems that are obsolete for economic, functional or technical reasons are modernized.
+- **Dynamics**: Encouragement of innovation oriented to the development of services, in line with market dynamism. Systems that are obsolete for economic, functional, or technical reasons are modernized.
 - **Simple**: design is straightforward, optimizing organizational capacity.
-The disadvantages of this architecture model are that without communication standards between applications, a lot of coding time is required. Applications with a high level of data transfer or with a short life span are not compatible with this model. At the level of protocols and services it is arguably a more expensive system than others we have seen previously.
+
+The disadvantages of this architecture model are that without communication standards between applications, a lot of coding time is required. Applications with a high level of data transfer or with a short life span are not compatible with this model. At the level of protocols and services, it is arguably a more expensive system than others we have seen previously.
 
 ## Event-driven architecture
 
-Event-driven architecture is a software model and architecture used to design applications. In such a system, the capture, communication, processing and permanence of events are the core structure of the solution. This differs from the traditional request-based model.
+Event-driven architecture is a software model and architecture used to design applications. In such a system, the capture, communication, processing, and permanence of events are the core structure of the solution. This differs from the traditional request-based model.
 
 But, what’s an event? Let’s go backwards…
 
-Events are those significant changes in the state of a system's hardware or software. An event and its notification are not the same thing: the latter is a message that the system sends to communicate to another part of the system that a certain event occurred.
+Events are those significant changes in the state of a system's hardware or software. An event and its notification are not the same things: the latter is a message that the system sends to communicate to another part of the system that a certain event occurred.
 
 Events can originate from internal or external stimuli. They can be generated by a user's activity, for example, when he clicks the mouse or presses a key; from an external source, as in the case of a sensor; or from the system, for instance, when a program is loaded.
 
@@ -116,12 +117,12 @@ The processing platform will execute the appropriate response for the event and 
 
 Benefits of event-driven architecture:
 
-- **Scalability**: Scalability is one of the strongest points of this architecture, since it allows each consumer to scale independently, thus reducing the coupling between components.
+- **Scalability**: Scalability is one of the strongest points of this architecture since it allows each consumer to scale independently, thus reducing the coupling between components.
 
 - **Deployment**: Due to the low coupling between components, deployment is possible without worrying about dependencies or preconditions.
 - **Flexibility**: EDA allows rapid response to a changing environment, because each event processing component has a single responsibility and is completely decoupled from the others.
 
-The most significant disadvantages associated with this model are the difficult testability of the tests, being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining response to the sender and the scarcity of recovery support in case of partial failure are the most significant drawbacks.
+The most significant disadvantages associated with this model are the difficult testability of the tests, being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining a response to the sender and the scarcity of recovery support in case of partial failure are the most significant drawbacks.
 
 Arguably its biggest handicap is the inability to predict when a request or reaction to an event will arrive; these could occur at any time. For this reason, it is often necessary to implement a queuing system at times of heavy traffic.
 
