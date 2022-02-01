@@ -1,13 +1,13 @@
 
 ## Video 2: What kinds of API architectures exist
 
-•	Web Architecture definition
-•	Monolithic architecture
-•	Microservices architecture
-•	Layered or N-tier
-•	Service-oriented architecture
-•	Event-driven architecture
-•	EDA and AsyncAPI
+- Web Architecture definition
+- Monolithic architecture
+- Microservices architecture
+- Layered or N-tier
+- Service-oriented architecture
+- Event-driven architecture
+- EDA and AsyncAPI
 
 Hello everyone! Welcome!
 
@@ -22,7 +22,7 @@ The main objective of web architecture is to achieve the goal of solving each of
 Web architecture is closely related to the Search Engine Optimization
 (SEO). A simple, organized and coherently designed architecture facilitates the indexing and tracking of a website in search engines. Thus, SEO results depend exclusively on the quality of the structure and design of the website architecture.
 
-Very often “less is better!”
+Very often “less is better”!
 
 ## Monolithic architecture
 
@@ -33,7 +33,9 @@ Analysts often compare it to microservices, a newer model for application develo
 It has three components that interact with a single database:
 
    - Client-side user interface
+
    - Server-side application
+
    - Data interface
 
 Software built according to this model works with a single code base. As a result, every time stakeholders want to make updates or changes, they access the same set of code. This can have a ripple effect that affects user-side performance.
@@ -43,7 +45,9 @@ This model can also streamline the ETL pipeline, as data flows into a single dat
 This type of architecture is characterized by:
 
 - **Ease**: programs are easy to develop.
+
 - **Simplicity**: software deployment and execution are straightforward.
+
 - **Affordable**: the development cost is low compared to other architectures.
 
 The problems of this type of architecture, such as scalability or the difficulty for developers (they need to understand all the application code) have caused this type of software development to stop being used in many projects despite its advantages.
@@ -75,8 +79,11 @@ N-Tiers architectures have at least 3 separate logical levels. Each layer has a 
 Benefits provided by this architecture:
 
 - **Availability**: applications can exploit the modular architecture using easily scalable components.
+
 - **Flexibility**: each layer can be managed or scaled independently, which increases flexibility. 
+
 - **Maintainability**: each layer is independent of the others. A layer can be updated or modified without affecting the application as a whole.  
+
 - **Scalability**: it is reasonably easy to scale since the tiers are based on the deployment of the layers. 
 
 The main disadvantages of implementing a layered architecture are the impediment to the deployment of functions that monolithic design entails and the complexity of network security management in a large system.
@@ -92,9 +99,13 @@ Services are distributable. They can be located anywhere on the network as long 
 Advantages of using this model:
 
 - **Efficiency**: processes are very efficient.
+
 - **Maintainability**: Reduced maintenance costs.
+
 - **Adaptability**: Facilitates adaptation to change, with integration with legacy systems.
+
 - **Dynamics**: Encouragement of innovation oriented to the development of services, in line with market dynamism. Systems that are obsolete for economic, functional, or technical reasons are modernized.
+
 - **Simple**: design is straightforward, optimizing organizational capacity.
 
 The disadvantages of this architecture model are that without communication standards between applications, a lot of coding time is required. Applications with a high level of data transfer or with a short life span are not compatible with this model. At the level of protocols and services, it is arguably a more expensive system than others we have seen previously.
@@ -120,6 +131,7 @@ Benefits of event-driven architecture:
 - **Scalability**: Scalability is one of the strongest points of this architecture since it allows each consumer to scale independently, thus reducing the coupling between components.
 
 - **Deployment**: Due to the low coupling between components, deployment is possible without worrying about dependencies or preconditions.
+
 - **Flexibility**: EDA allows rapid response to a changing environment, because each event processing component has a single responsibility and is completely decoupled from the others.
 
 The most significant disadvantages associated with this model are the difficult testability of the tests, being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining a response to the sender and the scarcity of recovery support in case of partial failure are the most significant drawbacks.
