@@ -54,7 +54,7 @@ E-commerce, Social media, cloud computing, mobility… Without a doubt, we are d
 
 There are 4 types of APIs: 
 
-- **Web services APIs**: these are the application development interfaces that enable the exchange of information between a web service (software that provides access to a particular service via a URL) and an application. 
+- **Web services APIs**: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
 
     There are four types of Web services APIs:
 
@@ -62,7 +62,7 @@ There are 4 types of APIs:
 
     •	XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.
 
-    • JSON-RPC, the same protocol but in JSON format. 
+    • JSON-RPC, the same protocol as our previously explained XML-RPC, but in JSON format. 
 
     •	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API uses the HTTP protocol.
 
