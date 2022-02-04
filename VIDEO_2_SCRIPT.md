@@ -97,7 +97,7 @@ SOA architecture makes it possible to integrate software elements that are imple
 
 Services are distributable. They can be located anywhere on the network as long as it supports the required communication protocols.  In an SOA architecture, services share contracts and schemas when communicating, not internal classes.  They are as well policy-compliant, understanding policies as the definition of characteristics such as transport, protocol, or security.  
 
-Advantages of using this model:
+Let's discuss the advantages of using this model:
 
 - **Efficiency**: processes are very efficient.
 
