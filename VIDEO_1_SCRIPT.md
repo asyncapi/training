@@ -28,25 +28,25 @@ APIs are an essential part of the development process of any application, but it
 
 ## Brief history of APIs
 
-When and how APIs were born? APIs are not that old, you know? The API story took baby steps until around the beginning of the new millennium. Was then when APIs were growing fast until become the fundamental piece of the digital world where we live today. 
+Have you ever wondered when and how APIs were born? Did you know that APIs are not that old? The API story took baby steps until around the beginning of the new millennium. That's when APIs began growing fast until they became a fundamental piece of the digital world where we live today. 
 
-But, not that fast! Let’s go back to their roots: The cloud computing company Salesforce made the Internet the medium in which its service would live, based from its origins on an API.
+But, not that fast! Let’s go back to their roots: The cloud computing company Salesforce made the Internet the medium in which its service would live, based from its origins on an API. 
 
-However, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification on software architecture. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. Their adventures, misfortunes and dreams. Their initial history, after all.
+However, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification on software architecture. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. Their adventures, misfortunes, and dreams. Their initial history, after all.
 
-Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. After all, at the end of 2000 eBay launched its application programming interface (API) together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
+Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. At the end of 2000, eBay launched its application programming interface (API) together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
 
 Amazon put the icing on the cake with the launch of Amazon Web Services. With this platform, the company enabled developers to incorporate Amazon content and features into their own web pages, making it possible for third-party sites to search for and display the company's products.
 
-Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its dizzying success. Yahoo took over the social network when Flickr's REST API had quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
+Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its dizzying success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
 
-Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events and profile information. A mine of endless information. Just a month later, Twitter followed suit.
+Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events, and profile information. A mine of endless information. Just a month later, Twitter followed suit.
 
 And while the social platforms were experimenting in the promising world of APIs, Google was going one step further and preparing the way to integrate its tools into third-party sites: just six months after the launch of Google Maps, the Mountain View company launched the mapping service API. They did so in response to the countless fake platforms that emerged based on hacking information from Google's tool.
 
-After the success of its first attempt, Amazon took its APIs to the next level. Far from focusing exclusively on e-commerce, the company opted to create an entire infrastructure to support developers based on REST APIs: first with Amazon S3, to store data in the cloud, and later with Amazon EC2, which also allows developers to have virtual servers in their data centers.
+After the success of its first attempt, Amazon took its APIs to the next level. Far from focusing exclusively on e-commerce, the company opted to create an entire infrastructure to support developers based on REST APIs: first with Amazon S3, to store data in the cloud, and later with Amazon EC2, to have virtual servers in data centers.
 
-Since 2010 the prevalence of the public API has skyrocketed. Mobiles finally brought APIs to our daily lives, every day, every hour, making life easier for every user, coming and going, understanding the world with the help of machines communicating each other fluently and being close to men and women, just as close as one click or quick look. 
+Since 2010, the prevalence of the public API has skyrocketed. Mobiles finally brought APIs to our daily lives, every day, every hour, making life easier for every user that was coming and going. We now had support understanding the world with the help of machines that communicated with each other fluently. All this information is within grasp to men and women, merely one-click away. 
 
 E-commerce, Social media, cloud computing, mobility… Definitely, and without no doubts, we are currently living in the Web API era.
 
