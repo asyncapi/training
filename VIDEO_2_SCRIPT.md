@@ -91,7 +91,7 @@ The main disadvantages of implementing a layered architecture are the impediment
 
 ## Service-oriented architecture (SOA)
 
-Service-Oriented Architecture, also known as SOA is a type of software architecture that allows the reuse of its elements thanks to service interfaces that communicate through a network with a common language. It defines the use of services (specific programs or tasks with a specific function) to support business requirements.  
+Service-Oriented Architecture, also known as SOA, is a type of software architecture that allows the reuse of its elements. This is thanks to service interfaces that communicate through a network with a common language. It defines the use of services (specific programs or tasks with a specific function) to support business requirements.  
 
 SOA architecture makes it possible to integrate software elements that are implemented and maintained separately, allowing them to communicate with each other and work together to form software applications in different systems. Each SOA service is independent of the others and can be replaced or upgraded without breaking with the applications it connects.  
 
