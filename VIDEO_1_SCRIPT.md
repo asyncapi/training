@@ -20,11 +20,11 @@ APIs allow your products and services to communicate with others, without needin
 
 For communicating we need to be on the same page; it's the same for machines. You see, APIs are a user interface that enables interaction and communication between software and a person.
 
-Each API is designed in a particular programming language and with distinct specifications that define it (APIs may include specifications for data structures and routines, object classes or variables, from which the use of that interface is based). 
+Each API is designed in a particular programming language and with distinct specifications that define it. APIs may include specifications for data structures, routines, object classes, or variables; all based on your selected interface.  
 
-For doing things easier, it is common for each API to have complete and effective documentation (a set of tutorials, manuals and best practice rules for that programming interface).
+It's easier for each API to have complete and effective documentation, such as a set of tutorials, manuals, and best practices for that programming interface.
 
-APIs are an essential part of the development process of any application. However, it remains hidden for the end user. They are the great unknowns. The magic trick that makes things work. Undisclosed!
+APIs are an essential part of the development process of any application, but it remains hidden from the end-user. They are the great unknowns. The magic trick that makes things work!
 
 ## Brief history of APIs
 
