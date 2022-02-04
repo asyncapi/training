@@ -11,7 +11,9 @@
 
 Hello everyone! Welcome!
 
-In this video, we are going to talk about web architecture. We will try to explain its meaning, discover what it brings and what it is used for, and analyze the different types of architecture that exist.  
+In this video, we're going to talk about the different types of API architectures that exist. We'll try to explain their meaning, discover what they bring, what they're used for, and how to analyze them. 
+
+Let's start with web architectures!
 
 ## Web Architecture definition 
 
