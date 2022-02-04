@@ -48,7 +48,7 @@ After the success of its first attempt, Amazon took its APIs to the next level. 
 
 Since 2010, the prevalence of the public API has skyrocketed. Mobiles finally brought APIs to our daily lives, every day, every hour, making life easier for every user that was coming and going. We now had support understanding the world with the help of machines that communicated with each other fluently. All this information is within grasp to men and women, merely one-click away. 
 
-E-commerce, Social media, cloud computing, mobility… Definitely, and without no doubts, we are currently living in the Web API era.
+E-commerce, Social media, cloud computing, mobility… Without a doubt, we are definitely living in the Web API era.
 
 ## Types of APIs
 
