@@ -59,7 +59,7 @@ Microservices architecture is a software application development method that wor
 
 Microservices communicate with each other through APIs and have their own storage systems which avoids overloading and crashing the application.
 
-Advantages of implementing microservices architecture:
+Let's talk about some advantages of implementing microservices architecture:
 
 - **Maintainability**: the application can be divided into several functional and independent parts. In case you need to modify application functionality, only the affected component will be deployed.
 
