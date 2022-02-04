@@ -72,7 +72,7 @@ There are 4 types of APIs:
 
 - **Function APIs in operating systems**: software programs are continuously interacting with operating systems. In many cases, the way they do so is through APIs. Operating systems such as Windows have APIs that enable such communication between programs and the OS.
 
-## Benefits os APIs
+## Benefits of APIs
 
 There are many benefits of APIs, it can be highlighted:
 
