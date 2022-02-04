@@ -141,7 +141,7 @@ Arguably its biggest handicap is the inability to predict when a request or reac
 
 ## ASYNCAPI and EDA
 
-AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation, from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven asynchronous APIs too.
+AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation and from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven asynchronous APIs too.
 
 To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of an AsyncAPI. Much like OpenAPI (fka Swagger) does for REST APIs. 
 
