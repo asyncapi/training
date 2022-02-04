@@ -135,7 +135,7 @@ Let's discuss the benefits of event-driven architecture:
 
 - **Flexibility**: EDA allows rapid response to a changing environment, because each event processing component has a single responsibility and is completely decoupled from the others.
 
-The most significant disadvantages associated with this model are the difficult testability of the tests, being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining a response to the sender and the scarcity of recovery support in case of partial failure are the most significant drawbacks.
+The most significant disadvantages associated with this model are the difficult testability of the tests. Being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining a response to the sender and the scarcity of recovery support in case of partial failure is the most significant drawback.
 
 Arguably its biggest handicap is the inability to predict when a request or reaction to an event will arrive; these could occur at any time. For this reason, it is often necessary to implement a queuing system at times of heavy traffic.
 
