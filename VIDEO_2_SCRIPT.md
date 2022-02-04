@@ -127,7 +127,7 @@ Once an event is detected, it is transmitted from the producer to the consumers 
 
 The processing platform will execute the appropriate response for the event and send the activity to the corresponding consumers. This downstream activity corresponds to where the result of the event will be seen. 
 
-Benefits of event-driven architecture:
+Let's discuss the benefits of event-driven architecture:
 
 - **Scalability**: Scalability is one of the strongest points of this architecture since it allows each consumer to scale independently, thus reducing the coupling between components.
 
