@@ -77,7 +77,7 @@ Each of these functions runs on a separate machine or in separate clusters, so t
 
 N-Tiers architectures have at least 3 separate logical levels. Each layer has a specific functionality for which it is responsible and is located on different physical servers. A layer is deployed in a tier if more than one service or application is dependent on the functionality exposed by the layer. N-tier architecture is also known as multi-tier architecture.
 
-Benefits provided by this architecture:
+Let's discuss the benefits provided by this architecture:
 
 - **Availability**: applications can exploit the modular architecture using easily scalable components.
 
