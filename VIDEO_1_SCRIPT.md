@@ -6,7 +6,7 @@
 - Benefits of APIs
 - Examples of APIs
 
-Hello! In this video we are going to talk about APIs. I’m pretty sure you have heard more than once about them. They are everywhere! On the net, apps, and almost all the technology we use in our everyday lives. 
+Hello! In this video, we're going to talk about APIs. I’m pretty sure you've heard more than once about them. They're everywhere! On the net, apps, and almost all the technology we use in our everyday lives. 
 
 We're going to dive a little bit into their history and origins, explaining what they are, what types of APIs exist, and what are their benefits. Finally, we will show you some API examples to make the concept and its use clearer.
 
