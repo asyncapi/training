@@ -31,7 +31,7 @@ Monolithic architecture describes buildings which are carved, cast, or excavated
 
 Analysts often compare it to microservices, a newer model for application development. In the microservices model, components are modular, work independently, and are coupled together as needed for optimal functionality.
 
-It has three components that interact with a single database:
+Monolithic architecture has three components that interact with a single database:
 
    - Client-side user interface
 
