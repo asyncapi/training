@@ -19,7 +19,7 @@ Let's start with web architectures!
 
 Web architecture is the way in which the pages of a website are structured and linked together in a logical and coherent manner. It could be said to refer to the planning and design of the technical, functional, and visual components of a website before it is finally developed and implemented.
 
-The main objective of web architecture is to achieve the goal of solving each of the needs of a website in the best possible way. It is there for seeking a good user experience. For doing so the structure of the website should be logical, optimized, and efficient.
+The main objective of web architecture is to achieve the goal of solving each of the needs of a website in the best possible way. It is there for seeking a good user experience. The structure of the website should be logical, optimized, and efficient.
 
 Web architecture is closely related to the Search Engine Optimization
 (SEO). A simple, organized and coherently designed architecture facilitates the indexing and tracking of a website in search engines. Thus, SEO results depend exclusively on the quality of the structure and design of the website architecture.
