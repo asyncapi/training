@@ -67,7 +67,7 @@ Let's talk about some advantages of implementing microservices architecture:
 
 - **Scalability**: this type of architecture has high scalability and ease of integration with third-party applications.
 
-This model also has disadvantages such as the complexity of versioning or the problems of integration and development if there is little support or the high memory consumption involved in working with it.
+This model also has disadvantages such as the complexity of versioning, problems with integration and development, little support, and the high memory consumption involved in working with it.
 
 ## Layered or N-tier 
 
