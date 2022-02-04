@@ -74,7 +74,7 @@ There are 4 types of APIs:
 
 ## Benefits of APIs
 
-There are many benefits of APIs, it can be highlighted:
+Let's highlight the many benefits of APIs:
 
 - **Adaptation**: needs change over time and APIs help to anticipate changes. When working on this technology, data migration can be better supported, while offering a better review of the information. 
 
