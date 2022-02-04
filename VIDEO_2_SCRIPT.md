@@ -153,6 +153,6 @@ One of the reasons for the success of REST APIs has been the existence of standa
 
 You might be looking for a solution to automate and formalize the documentation or code generation of your event-driven (micro)services. Likewise, you might be aiming to establish solid standards for your events and improve the governance of your asynchronous APIs. If so, AsyncAPI is here to help you.
 
-Vice versa, we are looking forward to your feedback and contributions. If you have not yet joined the AsyncAPI community through its Slack or GitHub we invite you to participate in the growth of the specification.
+Vice versa, we are looking forward to your feedback and contributions. If you have not yet joined the AsyncAPI community through its Slack or GitHub Discussions, we invite you to participate in the growth of the specification.
 
 See you in the next video!
