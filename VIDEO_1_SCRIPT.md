@@ -70,7 +70,7 @@ There are 4 types of APIs:
 
 - **Class-based APIs**: this type of application development interfaces allows the connection with data around classes, as is usual in object-oriented programming with Java. The Java API uses abstract classes for the creation of applications just like any program developed in this language. These classes provide everything needed to perform all kinds of functions within these applications. The Java development interface is organized into packages and each of those packages in turn contains a set of related classes.  
 
-- **Function APIs in operating systems**: software programs are continuously interacting with operating systems. In many cases, the way they do so is through APIs. Operating systems such as Windows have APIs that enable such communication between programs and the OS.
+- **Function APIs in operating systems**: software programs are continuously interacting with operating systems (OS). In many cases, the way they do so is through APIs. Operating systems such as Windows have APIs that enable such communication between programs and the OS.
 
 ## Benefits of APIs
 
