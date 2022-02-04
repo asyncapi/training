@@ -51,7 +51,7 @@ This type of architecture is characterized by:
 
 - **Affordable**: the development cost is low compared to other architectures.
 
-The problems of this type of architecture, such as scalability or the difficulty for developers (they need to understand all the application code) have caused this type of software development to stop being used in many projects despite its advantages.
+Some of the problems with this type of architecture are scalability and onboarding difficulty for developers. This has caused this type of software development to stop being used in many projects despite its advantages.
 
 ## Microservices architecture
 
