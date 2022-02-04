@@ -14,7 +14,7 @@ Let’s go!
 
 ## What are APIs
 
-APIs are just the nickname of Application Programming Interfaces, a tool that facilitates the communication and relationship between two applications. It’s the way two machines are able to exchange messages or data and understand each other. 
+API is the acronym for Application Programming Interfaces. APIs are a tool that facilitates the communication and relationship between two applications. It’s the way two machines are able to exchange messages or data and understand each other. 
 
 APIs allow your products and services to communicate with others, without needing to know how they are implemented. After all an API could be said to be a set of definitions and protocols used to develop and integrate application software.
 
