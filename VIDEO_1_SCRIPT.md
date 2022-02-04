@@ -92,8 +92,8 @@ Let's highlight the many benefits of APIs:
 
 I think it would be great to give some example of API related to AsyncAPI, any idea or suggestion?
 
-Farewell:
+## Goodbye to viewer
 
-I hope that the idea of what an API is and its environment is clearer now to you. It’s good to know what was the long and winding road and previous efforts done before a tool is implemented. 
+I hope that the idea of what an API is and its environment are clearer now to you. It’s good to know what was the long, winding road and previous efforts made before a tool is implemented. 
 
-If you have any questions about it do not hesitate to ask through the AsyncAPI Slack or through GitHub. Join the community and participate! Join us in the following videos :)
+If you have any questions about today's video, do not hesitate to ask through the AsyncAPI Slack or through our GitHub Discussions. Join our Open-Source community and participate! 
