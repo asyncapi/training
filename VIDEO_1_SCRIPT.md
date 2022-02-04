@@ -1,7 +1,7 @@
 # Video 1: What are APIs
 
 - What are APIs
-- Brief history of APIs (when and how APIs was born)
+- Brief history of APIs (when and how APIs were born)
 - Types of APIs
 - Benefits of APIs
 - Examples of APIs
