@@ -1,6 +1,6 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again, and welcome to a new video about AsyncAPI. In this video, we are going to talk about:
+Hello again, and welcome to a new video about AsyncAPI. In this video, we're going to talk about:
 
 AsyncAPI and OpenAPI
 
@@ -39,7 +39,7 @@ As we have seen, the two initiatives are very similar but cover very different f
 
 However, message-based APIs are very different and need solutions covering the caveats and considerations intrinsic to message-based architectures. AsyncAPI's tagline says it best: "REST APIs have OpenAPI. Messaging has AsyncAPI."
 
-It is essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each is aimed at a different domain.
+It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each is aimed at a different domain.
 
 ## Example of each initiative
 
