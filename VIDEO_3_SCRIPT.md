@@ -3,7 +3,7 @@
 Hello, hello!
 
 Welcome to this space! This is one of the videos to understand what AsyncAPI is. I hope it clears up your doubts and you feel like learning more about the project!
-In this video, we will talk about:
+In this video, we'll talk about:
  
  What is AsyncAPI?
 
@@ -40,7 +40,7 @@ They formulated an "API theory,” so to speak, essentially, with as many intera
 
 ## What AsyncAPI brings
 
-It is an extensible, protocol-agnostic communication protocol specification that helps us in any message-based case, primarily hosted in the Internet of Things (IoT), among other use cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs, making messages (events) more machine-readable. This allows developers who wish to implement it to be minimized and simplified. 
+It's an extensible, protocol-agnostic communication protocol specification that helps us in any message-based case, primarily hosted in the Internet of Things (IoT), among other use cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs, making messages (events) more machine-readable. This allows developers who wish to implement it to be minimized and simplified. 
 
 Having defined, documented, and accepted the communication between APIs provides us with much higher and more efficient information control. It is a multichannel tool, so it currently supports existing protocols.
 
@@ -55,9 +55,6 @@ Case use
   
 So far, the brief history of AsyncAPI, Thanks for joining us!
 
-We will continue in the following video to highlight the similarities and differences between AsyncAPI and OpenAPI.
+We'll continue in the following video to highlight the similarities and differences between AsyncAPI and OpenAPI.
 
 Don't miss it!
-
-
-
