@@ -28,23 +28,17 @@ All relevant project data are public. The developed tasks are accessible and ope
 
 As mentioned above, the project is managed by all the people who actively collaborate in its community. AsyncAPI has several tools that ensure transparency in project management. Let's talk about them:
 
-- **Open governance**. To ensure that the project is managed by its community and that it’s the one pulling the strings, last year, it was hosted by an open government foundation, Linux Foundation. Hosting the project on a neutral foundation ensures true democratization for the project and its community. At the same time, it provides the long-term sustainability and success of the initiative. 
+- **Open governance**: To ensure that the project is managed by its community and that it’s the one pulling the strings, last year, it was hosted by an open government foundation, Linux Foundation. Hosting the project on a neutral foundation ensures true democratization for the project and its community. At the same time, it provides the long-term sustainability and success of the initiative. 
 
 - **Economy**: all the financial management of the project is managed through Open Collective. It’s an online crowdfunding platform for communities that provides the necessary tools to raise and share the finances raised with complete transparency. You can find out where the money comes from in this space and its use.
 
-- **Transparent communication and work**. To ensure that the principle of transparency governs communication, everything is said and done in public. The community uses Slack as the first communication platform, and secondly, GitHub is used as a means of communication and work. Therefore, all information about any project management is public, no matter how insignificant or essential it may be.
+- **Transparent communication and work**: To ensure that the principle of transparency governs communication, everything is said and done in public. The community uses Slack as the first communication platform, and secondly, GitHub is used as a means of communication and work. Therefore, all information about any project management is public, no matter how insignificant or essential it may be.
 
-- **Meetings**. There are different meeting points where the community can meet, propose or discuss any topic related to AsyncAPI. Any interested person can join these meetings and raise any thoughts. Currently, there are four types of sessions:
+- **Meetings**: There are different meeting points where the community can meet, propose or discuss any topic related to AsyncAPI. Any interested person can join these meetings and raise any thoughts. 
 
-    - SIG Meeting: This is the AsyncAPI Special Interest Group meeting. The meeting takes place on alternate Tuesdays. Anyone interested can join through Zoom. Recordings from the previous sessions are available in this playlist on YouTube.
+Currently, there is a bi-weekly general meeting, SIG Meeting, where the most significant changes of the project so far are presented and updated. Then there are three types of more specific arrangements: Contributor First, aimed at informing people who want to contribute, Spec 3.0 Meeting, where the progress and work of the version of the project are discussed. Spec 3.0 Meeting, where the project is concerned, and Spec 3.0 Meeting, where the project is discussed.
 
-    - Contributor First: meetings dedicated to contributors that want to learn more about ways to contribute to AsyncAPI. We explain where and how to start. We share tips and tricks. 
-
-    - Spec 3.0 Meeting: these are oriented to the community members participating in constructing the 3.0 version of the AsyncAPI specification. The meeting takes place every two weeks, on Wednesdays. The first and third week of each month until the release. Recordings of previous meetings are available on Youtube.
-
-    - Design Meetings: a space dedicated to discussing design in AsyncAPI. They are held one Thursday a month at 16:00 UTC. These meetings cover a wide variety of topics within the product design space: visual design (design system, user interface kit), user experience through tools, user research...
-
-- **Decision-making**. Small decisions are usually discussed on GitHub, Slack, or in meetings. For higher level, decision making or when the maintainers cannot find consensus, the Technical Steering Committee (TSC) is responsible for the oversight of the AsyncAPI Initiative. 
+- **Decision-making**: Small decisions are usually discussed on GitHub, Slack, or in meetings. For higher level, decision making or when the maintainers cannot find consensus, the Technical Steering Committee (TSC) is responsible for the oversight of the AsyncAPI Initiative. 
 The Technical Steering Committee (TSC) provides oversight of the AsyncAPI Initiative. 
 
 Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, regularly contribute to one of the projects, and then other maintainers will invite you to join. 
