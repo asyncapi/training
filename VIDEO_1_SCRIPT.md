@@ -6,13 +6,19 @@
 - Benefits of APIs
 - Examples of APIs
 
-Hello! In this video, we're going to talk about APIs. I’m pretty sure you've heard more than once about them. They're everywhere! On the net, apps, and almost all the technology we use in our everyday lives. 
+Hello! Hello! My name is …, I work as ... in (company)... and today I going to talk about APIs. I'm sure you've heard about APIs more than once. They're everywhere! On the net, apps, and almost all the technology we use in our everyday lives. 
 
 We're going to dive a little bit into their history and origins, explaining what they are, what types of APIs exist, and what are their benefits. Finally, we will show you some API examples to make the concept and its use clearer.
 
 Let’s go!
 
 ## What are APIs
+
+- First of all, we will start by talking about what APIs are.
+- Secondly, I will show you a brief history of APIs.
+- Next, I will go on talking about the different types of APIs that exist.
+- Later, we will check the benefits they bring to us.
+- Finally, we will see a demo of an API.
 
 API is the acronym for Application Programming Interfaces. APIs are a tool that facilitates the communication and relationship between two applications. It’s the way two machines are able to exchange messages or data and understand each other. 
 
