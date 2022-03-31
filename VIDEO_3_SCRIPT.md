@@ -28,13 +28,10 @@ AsyncAPI currently aims to accomplish three main goals:
 
 3. Reach the first position among the most used API specifications. This will require a growth in the number of community members of around 400% over the next two years.
 
-## How did it come about?
-
-AsyncAPI started as a side project at Hitch (API Changelog) and was later founded by Fran Mendez. The AsyncAPI developers identified a lack of tools in the message-driven space. Something was missing in the documentation specifications when presented with an inversely great toolset for HTTP APIs.
-
-They began to search for a solution for standardized message-driven specification systems from this identified need. 
-
-They formulated an "API theory,” so to speak, essentially, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures, AsyncAPI would serve as a common unifying language for the various formats, protocols, and specifications. All of the above results in standardized communication in the message-based system.
+ ## How did it come about?
+Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changelog). The AsyncAPI developers identified a lack of tools in the message-driven space and searched for a solution for standardized message-driven specification systems. 
+ 
+They formulated an "API theory," so to speak, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures. AsyncAPI wanted to serve as a common unifying language for the various formats, protocols, and specifications. All of the above resulted in creating standardized communication in message-based systems. 
 
 ## What AsyncAPI brings
 
