@@ -33,13 +33,12 @@ Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changel
  
 They formulated an "API theory," so to speak, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures. AsyncAPI wanted to serve as a common unifying language for the various formats, protocols, and specifications. All of the above resulted in creating standardized communication in message-based systems. 
 
-## What AsyncAPI brings
+ ## What AsyncAPI brings
+ AsyncAPI is an extensible and agnostic communication protocol specification that helps in message-based cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs by making messages (events) more machine-readable. This approach allows developers to implement it in a simplified manner.  
 
-It's an extensible, protocol-agnostic communication protocol specification that helps us in any message-based case, primarily hosted in the Internet of Things (IoT), among other use cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs, making messages (events) more machine-readable. This allows developers who wish to implement it to be minimized and simplified. 
+Having defined, documented, and accepted the communication between APIs provides increased and efficient information control. It is a multichannel tool that currently supports existing protocols.
 
-Having defined, documented, and accepted the communication between APIs provides us with much higher and more efficient information control. It is a multichannel tool, so it currently supports existing protocols.
-
-Therefore, the conglomerate of AsyncAPI tools allows accelerating the development of applications. Its mechanism for automating complex and essential tasks facilitates code generation, documentation generation, validators, etc. It could be said that this is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
+We also have an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. We could even say that this is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
 
 ## How it Works / Working case study
 Case use
