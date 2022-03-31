@@ -1,18 +1,16 @@
 # Video 3: What is AsyncAPI? 
  
-Hello, hello!
+Hello everyone! Welcome!
+		
+This video will help you understand what AsyncAPI is and how to continue learning about this Open-Source project. 
 
-Welcome to this space! This is one of the videos to understand what AsyncAPI is. I hope it clears up your doubts and you feel like learning more about the project!
 In this video, we'll talk about:
+ - What is AsyncAPI?
+ - How did AsyncAPI come about?
+ - What AsyncAPI brings 
+ - How AsyncAPI Works
  
- What is AsyncAPI?
-
-- Definition of AsyncAPI
-- How did it come about?
-- What AsyncAPI brings 
-- How it Works / Working case study 
-
-Let’s go!
+ Ready? Let's get started!
 
 ## Definition of AsyncAPI
 
