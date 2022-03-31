@@ -51,10 +51,7 @@ Case use
 
 
 
-## Goodbye to viewer
-  
-So far, the brief history of AsyncAPI, Thanks for joining us!
+## Goodbye to the viewer
+We hope you enjoyed hearing about the origin of AsyncAPI and what it brings. The next video will highlight the similarities and differences between AsyncAPI and OpenAPI.
 
-We'll continue in the following video to highlight the similarities and differences between AsyncAPI and OpenAPI.
-
-Don't miss it!
+Thank you for joining us today!
