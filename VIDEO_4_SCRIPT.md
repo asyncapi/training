@@ -12,19 +12,17 @@ The current OpenAPI specification grew out of the predecessor project, Swagger. 
 
 ## Similarities between AsyncAPI and OpenAPI
 
-Its ultimate goal is to work with EDA architectures as simply as with Rest APIs. This specification for the asynchronous world is analogous to OpenAPI in the synchronous world. Both initiatives are based on the same principles:
+AsyncAPI's ultimate goal is to work with EDA architectures as simply as with Rest APIs. The AsyncAPI specification in the asynchronous world is analogous to OpenAPI in the synchronous world. 
 
-- Their use is intended for a contract-first philosophy.
+Both initiatives share numerous similarities:
 
-- They are implementation agnostic.
+- Contract-first philosophy
+- Agnostic implementation
+- Similar syntax
+- A tooling ecosystem 
+- Extensible by including new properties with the prefix x-
+- They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
 
-- Both use the same syntax. 
-
-- Like AsyncAPI, OpenAPI also offers a set of tools around it.
-
-- They protect information consumption using different security schemes such as user and password, API keys, certificates, and of course, the most recommended ones such as OAuth or OIDC flows.
-
-- Both specifications are extensible by including new properties with the prefix x-.
 
 ## Differences between them
 
