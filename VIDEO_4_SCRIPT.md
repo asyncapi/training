@@ -1,15 +1,8 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again, and welcome to a new video about AsyncAPI. In this video, we're going to talk about:
+Hello again! Welcome to a new video about AsyncAPI. This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
 
-AsyncAPI and OpenAPI
-
-•	What is OpenAPI?
-•	Similarities between AsyncAPI and OpenAPI
-•	Differences between them
-•	Example of each initiative
-
-Here we go! 
+Ready or not, here we go! 
 
 ## What is OpenAPI?
 
