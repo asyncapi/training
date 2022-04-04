@@ -45,6 +45,6 @@ It's essential to understand that while the two solutions have a lot in common, 
 
 (How about creating here a practical and simple example of each initiative? I think it would make the video more complete.)
 
-## Goodbye to viewer
-
-Thank you for joining us and being part of this adventure. I hope it has helped you to clarify your doubts. Join us to discover more about AsyncAPI and its environment!
+ ## Goodbye to the viewer
+ 
+Thank you for joining us in today's adventure! I hope today's content helped you clarify your doubts. Join us in the next video to learn about AsyncAPI and its environment!
