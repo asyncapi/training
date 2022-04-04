@@ -26,11 +26,11 @@ Both initiatives share numerous similarities:
 
 ## Differences between them
 
-As we have seen, the two initiatives are very similar but cover very different fields. REST APIs have a specific function that requires their methods and documentation approaches. REST APIs have, among others, a great solution in the form of OpenAPI, a set of standardized documentation methods for enabling tools and interactivity.
-
-However, message-based APIs are very different and need solutions covering the caveats and considerations intrinsic to message-based architectures. AsyncAPI's tagline says it best: "REST APIs have OpenAPI. Messaging has AsyncAPI."
-
-It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each is aimed at a different domain.
+ As we have seen, the two initiatives are significantly similar, but they also cover significantly different fields. REST APIs have a specific function that requires their methods and documentation approaches. REST APIs have, among others, a great solution in the form of OpenAPI, a set of standardized documentation methods for enabling tools and interactivity.
+ 
+ On the other hand, message-based APIs are different because they require solutions for the caveats and intrinsic considerations of message-based architectures. AsyncAPI's tagline says it best: "REST APIs have OpenAPI. Messaging has AsyncAPI."
+ 
+ It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
 
 ## Example of each initiative
 
