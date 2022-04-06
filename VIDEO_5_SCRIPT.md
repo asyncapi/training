@@ -22,14 +22,13 @@ It's a system of governance and decision-making based on collectivism. Each team
 Therefore, we can say that AsyncAPI adopts this type of governance model because it believes in a collective effort based on cooperation, integration, and inclusion of all of its members. In doing so, the specification safeguards against private interests.
 
 ## AsyncAPI and Linux Foundation
+In 2020, when the project started to grow exponentially and impacted the API world significantly, discussions began on the best way to improve open governance. If one thing was unanimously clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a solid, established and trusted organization. 
 
-Since 2020, when the project started to grow exponentially and impacted the API world significantly, discussions began on the best way to improve open governance. If one thing was unanimously clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a solid, established, and trusted organization. 
+Housing the project on neutral ground would defend and develop its independence and community governance. The objective was to enhance team awareness and a sense of belonging.
 
-Housing the project on the neutral ground would defend and develop its independence and community governance. The objective was to enhance team awareness and a sense of belonging.
+AsyncAPI desires to democratize power and establish a horizontal model based on the conviction that multiple points of view enrich vision and decision-making. It improves perspective and knowledge, multiplying support points that overcome obstacles.
 
-AsyncAPI's desire to democratize power and establish a horizontal model is based on the conviction that multiple points of view enrich the vision and decision-making. It improves perspective and knowledge and multiplies the support points to overcome obstacles.
-
-So, with these ideas and principles very clear, after a long time of searches and negotiations, in March 2021, AsyncAPI was housed under the umbrella of the Linux Foundation, granting neutrality and ensuring that the specification will continue to be driven by the people who contribute with their time and effort to the project community.
+With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This move granted neutrality, ensuring that the specification will continue to be driven by the people who contribute their time and effort to the project community.
 
 ## Goodbye to the viewer
 Thank you for joining us again for today's adventure! I hope you enjoyed it. Don't forget to join us in the next video to learn how AsyncAPI approaches the concept of transparency. 
