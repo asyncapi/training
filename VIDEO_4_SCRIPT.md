@@ -32,9 +32,15 @@ Both initiatives share numerous similarities:
  
  It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
 
-## Example of each initiative
+## AsyncAPI and OpenAPI comparison
 
-(How about creating here a practical and simple example of each initiative? I think it would make the video more complete.)
+As you can see, you'll find lots of similarities between OpenAPI and AsyncAPI!
+
+![](https://user-images.githubusercontent.com/19964402/161353808-430cb73e-e2a3-4913-ad5e-6cccdeeaa997.png)
+
+In event-driven architectures, you have more than one protocol, and therefore, some things are different. Let's check out the following comparison chart, inspired by [Darrel Miller's blog post](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2):
+
+![texto_alternativo](https://user-images.githubusercontent.com/19964402/161353528-23fd7a02-7917-4e1b-856d-c66b8456f373.png)
 
  ## Goodbye to the viewer
  
