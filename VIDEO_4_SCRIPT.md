@@ -40,7 +40,7 @@ As you can see, you'll find lots of similarities between OpenAPI and AsyncAPI!
 
 In event-driven architectures, you have more than one protocol, and therefore, some things are different. Let's check out the following comparison chart, inspired by [Darrel Miller's blog post](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2):
 
-![texto_alternativo](https://user-images.githubusercontent.com/19964402/161353528-23fd7a02-7917-4e1b-856d-c66b8456f373.png)
+![](https://user-images.githubusercontent.com/19964402/161353528-23fd7a02-7917-4e1b-856d-c66b8456f373.png)
 
  ## Goodbye to the viewer
  
