@@ -31,8 +31,7 @@ AsyncAPI's desire to democratize power and establish a horizontal model is based
 
 So, with these ideas and principles very clear, after a long time of searches and negotiations, in March 2021, AsyncAPI was housed under the umbrella of the Linux Foundation, granting neutrality and ensuring that the specification will continue to be driven by the people who contribute with their time and effort to the project community.
 
-## Goodbye to viewer
+## Goodbye to the viewer
+Thank you for joining us again for today's adventure! I hope you enjoyed it. Don't forget to join us in the next video to learn how AsyncAPI approaches the concept of transparency. 
 
-And so far, today's video, thanks again for joining us today. I hope you liked it.
-
-See you in the following video, see you soon!
+See you soon!
