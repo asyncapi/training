@@ -4,12 +4,11 @@ Hello everyone! Thank you for joining us in today's video. Today, we will talk a
 Let's get started!
 
 ## What is Open Governance
+Open Governance is a model of management based on transparency, collaboration, and ethics which results in clearer accountability and management. Driven by the participation of all the people that make up a project, company, or institution, it promotes a democratic system with inclusive growth.
 
-Open Governance is a model of management based on transparency, collaboration, and ethics, which results in clearer accountability and management driven by the participation of all the people that make up a project, company, or institution, thus promoting a democratic system with inclusive growth.
+Open source has become an essential model for the success of open government initiatives. Both share many of the same premises. Developers share information, ideas, and code to create more innovative software solutions, collectively and individually. This scalable and flexible software allows anyone with the source code to modify, improve, and redistribute it for greater accessibility and reuse. Open-source software works with peer-to-peer production and mass collaboration principles, creating a more sustainable software development process for end-users. 
 
-Open source has become an essential model for the success of open government initiatives. Both share, essentially, many of the same premises. Developers share information, ideas, and code to create more innovative software solutions, collectively and individually. This type of scalable and flexible software allows anyone with the source code to modify, improve, and redistribute it for greater accessibility and reuse. Open-source software works with the underlying principles of peer-to-peer production and mass collaboration, creating a more sustainable software development process for end-users. 
-
-The sharing of ideas and community-developed software has driven creative, scientific, and technological advancement in many industries: education, government, law, health, technology...This movement creates an opportunity for community members to collaborate, share, build and help each other to achieve common goals, in this case, through source code.
+The sharing of ideas and community-developed software has driven creative, scientific, and technological advancement in many industries: education, government, law, health, technology, and more. This movement creates an opportunity for community members to collaborate, share, build, and help each other achieve common goals. In this case, through source code.
 
 ## Why AsyncAPI is committed to this model
 
