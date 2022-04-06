@@ -1,9 +1,5 @@
 # Video 5: Open Governance
-- What is open Governance
-- Why AsyncAPI is committed to this model
-- AsyncAPI and Linux Foundation
-
-Hello everyone, and thank you for joining us in this video. Today, we’re going to talk about Open Governance and why AsyncAPI is committed to this model. 
+Hello everyone! Thank you for joining us in today's video. Today, we will talk about Open Governance and why AsyncAPI is committed to this model. 
 
 Let's get started!
 
