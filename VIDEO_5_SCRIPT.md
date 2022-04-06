@@ -10,17 +10,16 @@ Open source has become an essential model for the success of open government ini
 
 The sharing of ideas and community-developed software has driven creative, scientific, and technological advancement in many industries: education, government, law, health, technology, and more. This movement creates an opportunity for community members to collaborate, share, build, and help each other achieve common goals. In this case, through source code.
 
-## Why AsyncAPI is committed to this model
+## Why AsyncAPI is committed to an Open Governance model
+AsyncAPI is committed to democratic management based on two principles: horizontality in decision making and transparency in project management. From the beginning of the specification, AsyncAPI has relied on collective effort and group identity. The project focus on a governance and decision-making system in which values come first. The means are as necessary as the goal. Responsibilities are shared, understanding that a community can only enjoy success jointly.
 
-AsyncAPI is committed to democratic management based on two vertebral aes: horizontality in decision making and transparency in project management. From the beginning of the specification, AsyncAPI is determined to rely on collective effort and group identity. The project focus on a governance and decision-making system in which values come first. The means are as necessary as the goal. Responsibilities are shared, understanding that success can only be enjoyed jointly.
+Horizontality is crucial, advocating for creating, developing, and maintaining a fair social structure, equitable management, and power distribution. This value allows us to be flexible, adaptable, and resilient. 
 
-Horizontality is crucial, advocating for creating, developing, and maintaining a fair social structure and the equitable distribution of management and power. This value allows us to be flexible, adaptable, and resilient. 
+This type of governance enables us to work with like-minded people living thousands of miles away to pursue and achieve a common goal. The intention is to break down individualism and hierarchical archetypes while upholding a system that gives autonomy and decision-making power to its members. There are essential values such as transparency, equity, and efficiency for this model to work.
 
-This type of governance enables us to work with like-minded people living thousands of miles away to pursue and construct a common end goal. The intention is to break down individualism and the hierarchical archetype and uphold a system that gives autonomy and decision-making power to its members. There are essential values such as transparency, equity, and efficiency for this model to work.
+It's a system of governance and decision-making based on collectivism. Each team member has a voice that deserves listening. After all, no one knows their work better than they know themselves, so, within this model, each person corrects themselves and adapts their work according to the needs of the common goal. Each member is their boss, decentralizing power and transferring it to each team member.
 
-It’s a system of governance and decision-making based on collectivism. Each team member has a voice that should be listened to. After all, no one knows their work better than they know themselves, so, within this model, each person corrects themselves and adapts their work according to the needs of the common goal. Each member is their boss, decentralizing power and transferring it to each team member.
-
-Therefore, we can say that AsyncAPI adopts this type of governance model because it believes in a collective effort based on cooperation, integration, and inclusion of all of its members. Like this, the specification is safeguarded from private interests.
+Therefore, we can say that AsyncAPI adopts this type of governance model because it believes in a collective effort based on cooperation, integration, and inclusion of all of its members. In doing so, the specification safeguards against private interests.
 
 ## AsyncAPI and Linux Foundation
 
