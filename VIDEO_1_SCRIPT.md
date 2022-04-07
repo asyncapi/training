@@ -14,12 +14,6 @@ Let’s go!
 
 ## What are APIs
 
-- First of all, we will start by talking about what APIs are.
-- Secondly, I will show you a brief history of APIs.
-- Next, I will go on talking about the different types of APIs that exist.
-- Later, we will check the benefits they bring to us.
-- Finally, we will see a demo of an API.
-
 API is the acronym for Application Programming Interfaces. APIs are a tool that facilitates the communication and relationship between two applications. It’s the way two machines are able to exchange messages or data and understand each other. 
 
 APIs allow your products and services to communicate with others, without needing to know how they are implemented. An API is a set of definitions and protocols used to develop and integrate application software.
