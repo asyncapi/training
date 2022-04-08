@@ -20,7 +20,7 @@ Both initiatives share numerous similarities:
 -  Implementation-agnostic
 - Similar syntax
 - A tooling ecosystem 
-- Extensible by including new properties with the prefix x-
+- Extensible
 - They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
 
 
