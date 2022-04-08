@@ -38,11 +38,11 @@ Beyond emotions, the beginning of APIs took solid steps with a certain constancy
 
 Amazon put the icing on the cake with the launch of Amazon Web Services. With this platform, the company enabled developers to incorporate Amazon content and features into their own web pages, making it possible for third-party sites to search for and display the company's products.
 
-Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its quick success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
+Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its quick success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform. From that moment, many bloggers could easily integrate their images into their websites.
 
 Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events, and profile information. A mine of endless information. Just a month later, Twitter joined the game.
 
-And while the social platforms were experimenting in the promising world of APIs, Google was going one step further and preparing the way to integrate its tools into third-party sites: just six months after the launch of Google Maps, the Mountain View company launched the mapping service API. They did so in response to the countless fake platforms that emerged based on hacking information from Google's tool.
+And while the social platforms were experimenting in the promising world of APIs, Google was going one step further, preparing the way to integrate its tools into third-party sites: just six months after the launch of Google Maps, the Mountain View company launched the mapping service API. They did so in response to the countless fake platforms that emerged based on hacking information from Google's tool.
 
 After the success of its first attempt, Amazon took its APIs to the next level. Far from focusing exclusively on e-commerce, the company opted to create an entire infrastructure to support developers based on REST APIs: first with Amazon S3, to store data in the cloud, and later with Amazon EC2, to provision virtual servers in their data centers.
 
