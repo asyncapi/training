@@ -46,7 +46,7 @@ And while the social platforms were experimenting in the promising world of APIs
 
 After the success of its first attempt, Amazon took its APIs to the next level. Far from focusing exclusively on e-commerce, the company opted to create an entire infrastructure to support developers based on REST APIs: first with Amazon S3, to store data in the cloud, and later with Amazon EC2, to provision virtual servers in their data centers.
 
-Since 2010, the prevalence of the public API has skyrocketed. Mobiles finally brought APIs to our daily lives, every day, every hour, making life easier for every user that was coming and going. We now had support understanding the world with the help of machines that communicated with each other fluently. All this information is within grasp to men and women, merely one-click away. 
+Since 2010, the prevalence of the public API has skyrocketed. Smartphones finally brought APIs to our daily lives, every day, every hour, making life easier for every user that was coming and going. We now had support in understanding the world with the help of machines that communicated with each other fluently. All this information is within grasp to men and women, merely one-click away. 
 
 E-commerce, Social media, cloud computing, mobility… Without a doubt, we are definitely living in the Web API era.
 
