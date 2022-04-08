@@ -17,12 +17,11 @@ AsyncAPI's ultimate goal is to work with EDA architectures as simply as with Res
 Both initiatives share numerous similarities:
 
 - Contract-first philosophy
--  Implementation-agnostic
+- Implementation-agnostic
 - Similar syntax
 - A tooling ecosystem 
 - Extensible
 - They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
-
 
 ## Differences between them
 
