@@ -20,7 +20,7 @@ The strategy is to continue improving, implementing resources that make it more 
 
 Another important step the initiative took towards its consolidation was to partner with Postman at the end of 2020, a leading collaborative platform developing APIs. This partnership allows investment in a dedicated department working full time on AsyncAPI spec, tools and community-building aspects.
 
-AsyncAPI currently aims to accomplish three main goals:
+AsyncAPI Initiative currently aims to accomplish three main goals:
 
 1. Unify all API specifications. No one does event-driven architecture alone. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs.
 
