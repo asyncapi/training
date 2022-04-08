@@ -18,7 +18,7 @@ API is the acronym for Application Programming Interface. APIs are a tool that f
 
 APIs allow your products and services to communicate with others, without needing to know how they are implemented. An API is a set of definitions and protocols used to develop and integrate application software.
 
-For communicating we need to be on the same page; it's the same for machines. You see, APIs are a user interface that enables interaction and communication between software and a person.
+For communicating we need to be on the same page; it's the same for machines. You see, API is a user interface that enables interaction and communication between software and a person.
 
 Each API is designed in a particular programming language and with distinct specifications that define it. APIs may include specifications for data structures, routines, object classes, or variables; all based on your selected interface.  
 
