@@ -14,7 +14,7 @@ In this video, we'll talk about:
 
 ## Definition of AsyncAPI
 
-AsyncAPI is an open-source specification that aims to make working with EDA as easy today to work with RESTful APIs. 
+AsyncAPI is an open-source specification that aims to make working with EDA as easy as it is to work with REST APIs today.
 
 The strategy is to continue improving, implementing resources that make it more complete and solid. This has led to the recent merger with the Linux Foundation last year. Hosting the project on a neutral foundation guarantees the long-term sustainability and success of the initiative. 
 
