@@ -34,7 +34,7 @@ But, not that fast! Let’s go back to their roots: The cloud computing company 
 
 However, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification and creator of the Representational State Transfer (REST) architectural style. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. Their adventures, misfortunes, and dreams. Their initial history, after all.
 
-Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. At the end of 2000, eBay launched its application programming interface (API) together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
+Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. At the end of 2000, eBay launched its API together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
 
 Amazon put the icing on the cake with the launch of Amazon Web Services. With this platform, the company enabled developers to incorporate Amazon content and features into their own web pages, making it possible for third-party sites to search for and display the company's products.
 
