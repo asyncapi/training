@@ -32,7 +32,7 @@ Have you ever wondered when and how APIs were born? Did you know that APIs are n
 
 But, not that fast! Let’s go back to their roots: The cloud computing company Salesforce made the Internet the medium in which its service would live, based from its origins on an API. 
 
-However, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. Their adventures, misfortunes, and dreams. Their initial history, after all.
+However, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification and creator of the Representational State Transfer (REST) architectural style. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. Their adventures, misfortunes, and dreams. Their initial history, after all.
 
 Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. At the end of 2000, eBay launched its application programming interface (API) together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
 
