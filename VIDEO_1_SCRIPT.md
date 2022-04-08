@@ -38,7 +38,7 @@ Beyond emotions, the beginning of APIs took solid steps with a certain constancy
 
 Amazon put the icing on the cake with the launch of Amazon Web Services. With this platform, the company enabled developers to incorporate Amazon content and features into their own web pages, making it possible for third-party sites to search for and display the company's products.
 
-Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its dizzying success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
+Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its quick success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
 
 Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events, and profile information. A mine of endless information. Just a month later, Twitter followed suit.
 
