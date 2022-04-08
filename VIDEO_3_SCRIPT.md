@@ -29,7 +29,7 @@ AsyncAPI Initiative currently aims to accomplish three main goals:
 3. Reach the first position among the most used API specifications. This will require a growth in the number of community members by ensuring it is a community-driven project running under open governance.
 
  ## How did it come about?
-Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changelog). The AsyncAPI developers identified a lack of tools in the message-driven space and searched for a solution for standardized message-driven specification systems. 
+Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changelog). He identified a lack of tools in the message-driven space and searched for a solution for standardized message-driven specification systems. 
 
  ## What AsyncAPI brings
  AsyncAPI is an extensible and agnostic communication protocol specification that helps in message-based cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs by making messages (events) more machine-readable. This approach allows developers to implement it in a simplified manner.  
