@@ -82,7 +82,7 @@ Let's highlight the many benefits of APIs:
 
 - **Customization**: through APIs, any user can customize content and services.
 
-- **Efficiency**: when access to an API is provided, the content that is generated can be automatically published and made available to all channels. It allows it to be shared and distributed more easily. 
+- **Efficiency**: when access to an API is provided, the information is made available immediately. 
 
 - **Integration**: APIs allow content to be more easily embedded from any site or application. This ensures seamless information delivery and an integrated user experience.
 
