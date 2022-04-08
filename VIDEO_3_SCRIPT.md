@@ -38,8 +38,6 @@ Having defined, documented, and accepted the communication between APIs provides
 
 AsyncAPI initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
 
-## How it Works / Working case study
-Case use
 
 
 
