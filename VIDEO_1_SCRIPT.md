@@ -62,7 +62,7 @@ There are 4 types of APIs:
 
     •	XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.
 
-    • JSON-RPC, the same protocol as our previously explained XML-RPC, but in JSON format. 
+    •	JSON-RPC, same as XML-RPC but in JSON format. 
 
     •	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API uses the HTTP protocol.
 
