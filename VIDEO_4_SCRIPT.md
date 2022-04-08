@@ -41,4 +41,4 @@ In event-driven architectures, you have more than one protocol, and therefore, s
 
  ## Goodbye to the viewer
  
-Thank you for joining us in today's adventure! I hope today's content helped you clarify your doubts. Join us in the next video to learn about AsyncAPI and its environment!
+Thank you for joining us in today's adventure! I hope today's content helped you clarify your doubts. Join us in the next video to learn about AsyncAPI and its ecosystem!
