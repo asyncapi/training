@@ -17,7 +17,7 @@ AsyncAPI's ultimate goal is to work with EDA architectures as simply as with Res
 Both initiatives share numerous similarities:
 
 - Contract-first philosophy
-- Agnostic implementation
+-  Implementation-agnostic
 - Similar syntax
 - A tooling ecosystem 
 - Extensible by including new properties with the prefix x-
