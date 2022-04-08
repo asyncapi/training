@@ -36,7 +36,7 @@ AsyncAPI is an extensible and protocol-agnostic specification that helps with as
 
 Having defined, documented, and accepted the communication between APIs provides increased and efficient information control. It is a multichannel tool that currently supports existing protocols.
 
-We also have an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. We could even say that this is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
+AsyncAPI initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
 
 ## How it Works / Working case study
 Case use
