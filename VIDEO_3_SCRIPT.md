@@ -22,7 +22,7 @@ Another important step the initiative took towards its consolidation was to part
 
 AsyncAPI Initiative currently aims to accomplish three main goals:
 
-1. Unify all API specifications. No one does event-driven architecture alone. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs.
+1. Unify all API specifications. No one does event-driven architecture alone. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs. Let us embrace reusability!
 
 2. Make the development experience super seamless, from idea to production. Users should be able to create their first API in a matter of minutes without prior knowledge of AsyncAPI.
 
