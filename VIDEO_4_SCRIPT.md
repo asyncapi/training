@@ -8,7 +8,7 @@ Ready or not, here we go!
 
 OpenAPI is a standard for describing application programming interfaces (APIs). This specification defines an open, vendor-independent description format for API services. In particular, OpenAPI can describe, develop, test, and document REST-compliant APIs.
 
-The current OpenAPI specification grew out of the predecessor project, Swagger. The development company SmartBear subjected the existing Swagger specification to an open license, handing over both maintenance and development of the initiative to OpenAPI. In addition to SmartBear, members of the OpenAPI initiative include industry giants such as Google, IBM, and Microsoft. The Linux Foundation also supports this project. 
+The current OpenAPI specification grew out of the predecessor project, Swagger. The development company SmartBear subjected the existing Swagger specification to an open license, handing over both maintenance and development of the initiative to the Linux Foundation. In addition to SmartBear, members of the OpenAPI initiative include industry giants such as Google, IBM, and Microsoft.
 
 ## Similarities between AsyncAPI and OpenAPI
 
