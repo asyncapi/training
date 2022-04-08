@@ -16,22 +16,20 @@ In this video, we'll talk about:
 
 AsyncAPI is an open-source specification that aims to make working with EDA as easy as it is to work with REST APIs today.
 
-The strategy is to continue improving, implementing resources that make it more complete and solid. This has led to the recent merger with the Linux Foundation last year. Hosting the project on a neutral foundation guarantees the long-term sustainability and success of the initiative. 
+The strategy is to continue improving, implementing resources that make it more complete and solid. This has led to an agreement of joinment between AsyncAPI Initiative and the Linux Foundation last year. As a result AsyncAPI Initiative is fostered and hosted by a neutral foundation that guarantees the long-term sustainability and success of the project. 
 
-Another important step the initiative took towards its consolidation was to partner with Postman at the end of 2020, a leading collaborative platform developing APIs and a reference in the sector worldwide. This partnership allows it to drive the growth of more and better tools to help engineers create and maintain asynchronous APIs while using their usual languages and working environments.
+Another important step the initiative took towards its consolidation was to partner with Postman at the end of 2020, a leading collaborative platform developing APIs. This partnership allows investment in a dedicated department working full time on AsyncAPI spec, tools and community-building aspects.
 
 AsyncAPI currently aims to accomplish three main goals:
 
 1. Unify all API specifications. No one does event-driven architecture alone. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs.
 
-2. Improve the performance of the specification to make it more and more seamless. Users should be able to create their first API in a matter of minutes without prior knowledge of AsyncAPI.
+2. Make the development experience super seamless, from idea to production. Users should be able to create their first API in a matter of minutes without prior knowledge of AsyncAPI.
 
-3. Reach the first position among the most used API specifications. This will require a growth in the number of community members of around 400% over the next two years.
+3. Reach the first position among the most used API specifications. This will require a growth in the number of community members by ensuring it is a community-driven project running under open governance.
 
  ## How did it come about?
 Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changelog). The AsyncAPI developers identified a lack of tools in the message-driven space and searched for a solution for standardized message-driven specification systems. 
- 
-They formulated an "API theory," so to speak, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures. AsyncAPI wanted to serve as a common unifying language for the various formats, protocols, and specifications. All of the above resulted in creating standardized communication in message-based systems. 
 
  ## What AsyncAPI brings
  AsyncAPI is an extensible and agnostic communication protocol specification that helps in message-based cases. AsyncAPI's main contribution to the world of APIs is the standardization of communication between APIs by making messages (events) more machine-readable. This approach allows developers to implement it in a simplified manner.  
