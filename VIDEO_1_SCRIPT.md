@@ -78,7 +78,7 @@ Let's highlight the many benefits of APIs:
 
 - **Automation**: Through APIs, workflows can be updated so that they can be done in less time while being more productive.
 
-- **Application**: enabling API access to app components provides flexibility in the delivery of services and information.  
+- **Flexibility**: enabling API access to app components provides flexibility in the delivery of services and information.  
 
 - **Customization**: through APIs, any user can customize content and services.
 
