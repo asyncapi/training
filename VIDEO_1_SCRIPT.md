@@ -66,7 +66,7 @@ There are 4 types of APIs:
 
     •	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API often uses the HTTP protocol.
 
-- **Library-based APIs**: these types of APIs are those that allow an application to import a library from other software, in order to exchange information. Nowadays, many of the libraries that provide access to products and services are designed in JavaScript.
+- **Library-based APIs**: These are APIs designed for a specific programming language. They are a means to reuse libraries from other software or other parts of the same software.
 
 - **Class-based APIs**: this type of application development interface allows the connection with data around classes, as is usual in object-oriented programming with Java. The Java API uses abstract classes for the creation of applications just like any program developed in this language. These classes provide everything needed to perform all kinds of functions within these applications. The Java development interface is organized into packages and each of those packages, in turn, contains a set of related classes.  
 
