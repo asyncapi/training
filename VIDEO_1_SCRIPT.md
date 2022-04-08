@@ -40,7 +40,7 @@ Amazon put the icing on the cake with the launch of Amazon Web Services. With th
 
 Social networks were the next springboard where APIs gain momentum: in fact, a few months after its launch in 2004, Flickr made its platform available to developers. And that was one of the secrets of its quick success. Yahoo took over the social network when Flickr's REST API quickly made it the preferred photo platform for many bloggers who could easily integrate their images into their websites.
 
-Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events, and profile information. A mine of endless information. Just a month later, Twitter followed suit.
+Flickr was then ahead of its time, as it was not until two years later, in September 2006, that Facebook opened its platform for developers and its first API, which allowed access to the list of Facebook friends, photos, events, and profile information. A mine of endless information. Just a month later, Twitter joined the game.
 
 And while the social platforms were experimenting in the promising world of APIs, Google was going one step further and preparing the way to integrate its tools into third-party sites: just six months after the launch of Google Maps, the Mountain View company launched the mapping service API. They did so in response to the countless fake platforms that emerged based on hacking information from Google's tool.
 
