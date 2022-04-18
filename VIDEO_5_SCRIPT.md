@@ -17,7 +17,7 @@ Horizontality is crucial, advocating for creating, developing, and maintaining a
 
 This type of governance enables us to work with like-minded people living thousands of miles away to pursue and achieve a common goal. The intention is to break down individualism and hierarchical archetypes while upholding a system that gives autonomy and decision-making power to its members. There are essential values such as transparency, equity, and efficiency for this model to work.
 
-It's a system of governance and decision-making based on collectivism. Each team member has a voice that deserves listening. After all, no one knows their work better than they know themselves, so, within this model, each person corrects themselves and adapts their work according to the needs of the common goal. Each member is their boss, decentralizing power and transferring it to each team member.
+It's a system of governance and decision-making based on collectivism. Each maintainer has a voice that deserves listening. After all, no one knows their work better than they know themselves, so, within this model, each person corrects themselves and adapts their work according to the needs of the common goal.
 
 Therefore, we can say that AsyncAPI adopts this type of governance model because it believes in a collective effort based on cooperation, integration, and inclusion of all of its members. In doing so, the specification safeguards against private interests.
 
