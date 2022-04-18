@@ -28,7 +28,7 @@ All relevant project data are public. The developed tasks are accessible and ope
 
 As mentioned above, the project is managed by all the people who actively collaborate in its community. AsyncAPI has several tools that ensure transparency in project management. Let's talk about them:
 
-- **Open governance**: To ensure that the project is managed by its community and that it’s the one pulling the strings, last year, it was hosted by an open government foundation, Linux Foundation. Hosting the project on a neutral foundation ensures true democratization for the project and its community. At the same time, it provides the long-term sustainability and success of the initiative. 
+- **Open governance**: To ensure that the project is managed by its community and that it’s the one pulling the strings, last year, it joined Linux Foundation. This move ensures true democratization for the project and its community. At the same time, it provides the long-term sustainability and success of the initiative. 
 
 - **Economy**: all the financial management of the project is managed through Open Collective. It’s an online crowdfunding platform for communities that provides the necessary tools to raise and share the finances raised with complete transparency. You can find out where the money comes from in this space and its use.
 
