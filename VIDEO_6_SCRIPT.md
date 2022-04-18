@@ -32,23 +32,14 @@ As mentioned above, the project is managed by all the people who actively collab
 
 - **Economy**: all the financial management of the project is managed through Open Collective. It’s an online crowdfunding platform for communities that provides the necessary tools to raise and share the finances raised with complete transparency. You can find out where the money comes from in this space and its use.
 
-- **Transparent communication and work**: To ensure that the principle of transparency governs communication, everything is said and done in public. The community uses Slack as the first communication platform, and secondly, GitHub is used as a means of communication and work. Therefore, all information about any project management is public, no matter how insignificant or essential it may be.
+- **Transparent communication and work**: To ensure that the principle of transparency governs communication, everything is said and done in public. The community uses GitHub as the first communication and work platform. All decisions are taken there. Secondly, Slack is used as a means of sync communication enablement and keeping the closer bond with the community on daily basis. Therefore, all information about any project management is public, no matter how insignificant or essential it may be.
 
 - **Meetings**: There are different meeting points where the community can meet, propose or discuss any topic related to AsyncAPI. Any interested person can join these meetings and raise any thoughts. 
 
-  Currently, there is a bi-weekly general meeting, SIG Meeting, where the most significant changes of the project so far are presented and updated. Then there are three types of more specific arrangements: Contributor First, aimed at informing people who want to contribute, Spec 3.0 Meeting, where the progress and work of the version of the project are discussed. Spec 3.0 Meeting, where the project is concerned, and Spec 3.0 Meeting, where the project is discussed.
+  Even though there are synchronous meetings, there is a written rule that no decision making is done on the meetings. Presence on the meeting is not needed to actively participate. We value async communication more. After something is discussed on meeting, community needs to have time to react, watch the recording and decide.
 
-- **Decision-making**: Small decisions are usually discussed on GitHub, Slack, or in meetings. For higher level, decision making or when the maintainers cannot find consensus, the Technical Steering Committee (TSC) is responsible for the oversight of the AsyncAPI Initiative. 
-  The Technical Steering Committee (TSC) provides oversight of the AsyncAPI Initiative. 
-
-  Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, regularly contribute to one of the projects, and then other maintainers will invite you to join. 
-
-  You can also create a great AsyncAPI-based project that we still don't have in our GitHub organization and donate it (we will ask you to stay as a maintainer). It doesn't matter if you are an individual contributor or if a company backs you or not. All members have the same rights.
-
-  The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company. Or 1/3 in case more maintainers need to be sought to bring the balance back to the force.
-
-  The idea is to set a place where AsyncAPI open-source tools are developed, without overlaps or duplications of similar devices. 
+- **Decision-making**: Decisions are usually discussed on GitHub, through issues, PRs and discussions. For higher level, decision making or when the maintainers cannot find consensus, the Technical Steering Committee (TSC) is responsible for the oversight of the AsyncAPI Initiative. The Technical Steering Committee (TSC) provides oversight of the AsyncAPI Initiative. 
 
 ## Goodbye to the viewer
 
-Enough for today's video. I hope you enjoyed it. Thanks so much for joining us. See you in the following video!
+Enough for today's video. I hope you enjoyed it. Thanks so much for joining us!
