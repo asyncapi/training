@@ -1,4 +1,4 @@
-# Video 7: Working in community
+# Video 6: Working in community
 
 - Definition of community
 - AsyncAPI and its community
