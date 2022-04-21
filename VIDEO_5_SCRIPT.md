@@ -26,7 +26,6 @@ When we talk about transparency, we refer to that attitude and methodology that 
 
 Transparency has become a fundamental concept in the democratization processes undertaken by governments, institutions, companies, organizations, projects... in recent years. In its ideal state, democracy is nothing more than a method that allows the community members to analyze reality from different points of view to make decisions freely and for the common good.
 
-
 ## What is open governance
 
 Open governance is a "model of governance that promotes the principles of transparency, integrity, accountability, and stakeholder participation in support of democracy and inclusive growth. Driven by the participation of all the people that make up a project, company, or institution, it promotes engagement and democracy".
