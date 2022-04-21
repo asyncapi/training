@@ -1,4 +1,4 @@
-# Video 5: Open Governance and transparency
+# Video 5: Open governance and transparency
 
 - AsyncAPI and Linux Foundation
 - What is transparency
