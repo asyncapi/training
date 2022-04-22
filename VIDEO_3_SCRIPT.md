@@ -8,7 +8,6 @@ In this video, we'll talk about:
  - What is AsyncAPI?
  - How did AsyncAPI come about?
  - What AsyncAPI brings 
- - How AsyncAPI Works
  
  Ready? Let's get started!
 
