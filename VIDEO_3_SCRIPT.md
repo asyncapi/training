@@ -34,9 +34,9 @@ Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changel
  ## What AsyncAPI brings
 AsyncAPI is an extensible and protocol-agnostic specification that helps with asynchronous APIs. Its main contribution to the world of APIs is the standardization of how you can design and describe Event-Driven Architectures in a simplified and unified manner.
 
-Having defined, documented, and accepted the communication between APIs provides increased and efficient information control.
+We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. Having defined, documented, and accepted the communication between APIs provides increased and efficient information control.
 
-AsyncAPI initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. 
+AsyncAPI initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. 
 
 ## Goodbye to the viewer
 We hope you enjoyed hearing about the origin of AsyncAPI and what it brings. The next video will highlight the similarities and differences between AsyncAPI and OpenAPI.
