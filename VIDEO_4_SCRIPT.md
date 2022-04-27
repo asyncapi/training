@@ -31,13 +31,25 @@ Both initiatives share numerous similarities:
 
 ## AsyncAPI and OpenAPI comparison
 
-As you can see, you'll find lots of similarities between OpenAPI and AsyncAPI!
+Microservices architecture makes something pretty cool: to split up huge globs of code into tiny, manageable pieces. That’s the way different teams can work on pieces simultaneously, sharing the fun!
 
-![](https://user-images.githubusercontent.com/19964402/161353808-430cb73e-e2a3-4913-ad5e-6cccdeeaa997.png)
+Making different combinations of microservices appears them as the most efficient way of creating something new. Making combinations as a puzzle. REST calls were the main method to stick those pieces together, acting as glue.
 
-In event-driven architectures, you have more than one protocol, and therefore, some things are different. Let's check out the following comparison chart, inspired by [Darrel Miller's blog post](https://www.openapis.org/news/blogs/2016/10/tdc-structural-improvements-explaining-30-spec-part-2):
+Jesse Menning makes it very clear in this fantastic [article](https://www.asyncapi.com/blog/openapi-vs-asyncapi-burning-questions) that we highly recommend.
 
-![](https://user-images.githubusercontent.com/19964402/161353528-23fd7a02-7917-4e1b-856d-c66b8456f373.png)
+That method worked pretty well in synchronous communication, but it has its limitations. People eventually realized that REST wasn’t always the best tool for laying the game. The search for a new kind of glue starts as a way of facilitating asynchronous communication.
+
+The internet of things acted as a real game-changer. Since it was introduced, everything seems to be connected to the Internet. And everything Is everything, including vacuum cleaners, heaters, ovens, cars... That is amazing but not that easy. Every gadget doesn’t always have solid internet connections. Asynchronous communication rises as a better way to connect them.
+
+Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt.
+
+AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
+
+(Diagram proposed by Lukasz)
+
+Being hosted by Linux Foundation, it is possible to say that AsyncAPI and OpenAPI share a wide common ground, well supported and stable. They share open standards with community governance. They should also continue to be integrated with open-source tooling and commercial products.
+
+Both are heading straight to a promising future, wide open.
 
  ## Goodbye to the viewer
  
