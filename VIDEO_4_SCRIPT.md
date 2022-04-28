@@ -43,9 +43,9 @@ The internet of things acted as a real game-changer. Since it was introduced, ev
 
 Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt.
 
-AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
+![Protocols supported](https://user-images.githubusercontent.com/77982319/165746023-ed78afbc-598b-4401-843e-6ac851d30303.jpg)
 
-(Diagram proposed by Lukasz)
+AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
 
 Being hosted by Linux Foundation, it is possible to say that AsyncAPI and OpenAPI share a wide common ground, well supported and stable. They share open standards with community governance. They should also continue to be integrated with open-source tooling and commercial products.
 
