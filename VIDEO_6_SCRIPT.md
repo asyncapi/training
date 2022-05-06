@@ -46,7 +46,7 @@ If you’re not yet part of our community, we’re looking forward to it. We inv
 
 The steps to joining our community are very simple: follow us on our social networks, LinkedIn, Twitter, and Youtube.
 
-Join AsyncAPI's Slack and GitHub. We look forward to hearing from you and seeing how we can make the project better.
+Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing from you and seeing how we can make the project better.
 
 ## Farewell
 
