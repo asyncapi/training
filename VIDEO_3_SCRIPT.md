@@ -5,8 +5,8 @@ Hello everyone! Welcome!
 This video will help you understand what AsyncAPI is and how to continue learning about this Open-Source project. 
 
 In this video, we'll talk about:
- - What is AsyncAPI?
- - How did AsyncAPI come about?
+ - What is AsyncAPI
+ - How did AsyncAPI come about
  - What AsyncAPI brings 
  
  Ready? Let's get started!
@@ -27,7 +27,7 @@ AsyncAPI Initiative currently aims to accomplish three main goals:
 
 3. Reach the first position among the most used API specifications. This will require a growth in the number of community members by ensuring it is a community-driven project running under open governance.
 
- ## How did it come about?
+ ## How did it come about
 Founded by Fran Mendez, AsyncAPI started as a side project at Hitch (API Changelog). He identified a lack of tools in the message-driven space and searched for a solution for standardized message-driven specification systems. 
 
  ## What AsyncAPI brings
