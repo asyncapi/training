@@ -4,7 +4,7 @@ Hello again! Welcome to a new video about AsyncAPI. This video will discuss what
 
 Ready or not, here we go! 
 
-## What is OpenAPI?
+## What is OpenAPI
 
 OpenAPI is a standard for describing application programming interfaces (APIs). This specification defines an open, vendor-independent description format for API services. In particular, OpenAPI can describe, develop, test, and document REST-compliant APIs.
 
