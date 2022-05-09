@@ -1,4 +1,4 @@
-# Video 3: What is AsyncAPI? 
+# Video 3: What is AsyncAPI
  
 Hello everyone! Welcome!
 		
