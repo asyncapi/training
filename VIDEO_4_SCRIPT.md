@@ -1,6 +1,6 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again! Welcome to a new video about AsyncAPI. This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
+Hello again! Welcome to a new video about AsyncAPI, the open source initiative that seeks to improve the current state of Event Driven Architectures (EDA). If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
 
 Ready or not, here we go! 
 
@@ -12,7 +12,9 @@ The current OpenAPI specification grew out of the predecessor project, Swagger. 
 
 ## Similarities between AsyncAPI and OpenAPI
 
-AsyncAPI's ultimate goal is to work with EDA architectures as simply as with Rest APIs. The AsyncAPI specification in the asynchronous world is analogous to OpenAPI in the synchronous world. 
+AsyncAPI's ultimate goal is to work with EDA architectures as simply as with Rest APIs. For those who don't know what REST APIs are, we will briefly say that interface between systems and that uses HTTP to obtain data or generate operations on that data in all possible formats.
+
+Back to the comparison, the AsyncAPI specification in the asynchronous world is analogous to OpenAPI in the synchronous world. 
 
 Both initiatives share numerous similarities:
 
@@ -23,11 +25,11 @@ Both initiatives share numerous similarities:
 - Extensible
 - They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
 
-## Differences between them
+## Differences between AsyncAPI and OpenAPI
 
- As we have seen, the two initiatives are significantly similar, but they also cover significantly different fields. REST APIs have a specific function that requires their methods and documentation approaches. REST APIs have, among others, a great solution in the form of OpenAPI, a set of standardized documentation methods for enabling tools and interactivity.
+As we have seen, the two initiatives are significantly similar, but they also cover significantly different fields. REST APIs have a specific function that requires their methods and documentation approaches. REST APIs have, among others, a great solution in the form of OpenAPI, a set of standardized documentation methods for enabling tools and interactivity.
  
- It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
+It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
 
 ## AsyncAPI and OpenAPI comparison
 
