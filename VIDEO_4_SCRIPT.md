@@ -6,7 +6,7 @@ Ready or not, here we go!
 
 ## What is OpenAPI
 
-OpenAPI is a standard for describing application programming interfaces (APIs). This specification defines an open, vendor-independent description format for API services. In particular, OpenAPI can describe, develop, test, and document REST-compliant APIs.
+OpenAPI is a standard for describing application programming interfaces (APIs). This specification defines an open, vendor-independent description format for API services. In particular, OpenAPI can describe, develop, test, and document REST-compliant APIs. Understood as a software architecture for hypermedia systems on the World Wide Web, REST often uses the HTTP protocol.
 
 The current OpenAPI specification grew out of the predecessor project, Swagger. The development company SmartBear subjected the existing Swagger specification to an open license, handing over both maintenance and development of the initiative to the Linux Foundation. In addition to SmartBear, members of the OpenAPI initiative include industry giants such as Google, IBM, and Microsoft.
 
@@ -18,8 +18,8 @@ Back to the comparison, the AsyncAPI specification in the asynchronous world is 
 
 Both initiatives share numerous similarities:
 
-- Contract-first philosophy
-- Implementation-agnostic
+- Contract-first philosophy, also known as API-first. In other words, design API first and then implement it.
+- Implementation-agnostic, it refers that is compatible with various systems. 
 - Similar syntax
 - A tooling ecosystem 
 - Extensible
@@ -27,9 +27,11 @@ Both initiatives share numerous similarities:
 
 ## Differences between AsyncAPI and OpenAPI
 
-As we have seen, the two initiatives are significantly similar, but they also cover significantly different fields. REST APIs have a specific function that requires their methods and documentation approaches. REST APIs have, among others, a great solution in the form of OpenAPI, a set of standardized documentation methods for enabling tools and interactivity.
+As we have seen, the two initiatives are significantly similar, but they also cover significantly different fields. 
  
-It's essential to understand that while the two solutions have a lot in common, they are also wildly divergent. Both OpenAPI and AsyncAPI allow for more significant cooperation and collaboration between different documented APIs. Still, OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
+OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain. We could say that the big difference between the two is that OpenAPI, which focuses on synchronous communication, is used for HTTP protocol. AsyncAPI is used for multiple different protocols designed for async communication.
+
+These are two complete different architectures that require different specifications. That is the main difference between OpenAPI and AsyncAPI. But, yeah, let's jump into details.
 
 ## AsyncAPI and OpenAPI comparison
 
