@@ -42,7 +42,7 @@ In the AsyncAPI governance model, you can find two essential roles: contributor 
 
 To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join. 
 
-The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company. Or 1/3 in case more maintainers need to be sought to bring the balance back to the force.
+The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company.
 
 ## Putting theory into practice
 
