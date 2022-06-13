@@ -22,7 +22,7 @@ Both initiatives share numerous similarities:
 - Implementation-agnostic, it refers that is compatible with various systems. 
 - Similar syntax
 - A tooling ecosystem 
-- Extensible
+- Extensibility
 - They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
 
 ## Differences between AsyncAPI and OpenAPI
