@@ -20,7 +20,7 @@ With these ideas and principles clear, after a long time of searches and negotia
 
 ## What is transparency
 
-Organizational transparency can be defined as "a deliberate attempt by the organization to create an environment of trust in which to promote free access to information, open communication, and the participation of all professionals in decision-making."
+Organizational transparency can be defined as a deliberate attempt by the organization to create an environment of trust in which to promote free access to information, open communication, and the participation of all professionals in decision-making. 
 
 When we talk about transparency, we refer to that attitude and methodology that allows controlling the financial aspects of a company to fulfill its mission and vision with the participation of all the people in an organization. Transparency requires obligations, clarity, and implication to sustain it. The information provided must be truthful, based on evidence that can be checked and verified.
 
@@ -28,7 +28,7 @@ Transparency has become a fundamental concept in the democratization processes u
 
 ## What is open governance
 
-Open governance is a "model of governance that promotes the principles of transparency, integrity, accountability, and stakeholder participation in support of democracy and inclusive growth. Driven by the participation of all the people that make up a project, company, or institution, it promotes engagement and democracy".
+Open governance is a model of governance that promotes the principles of transparency, integrity, accountability, and stakeholder participation in support of democracy and inclusive growth. Driven by the participation of all the people that make up a project, company, or institution, it promotes engagement and democracy.
 
 In the same way, this model facilitates working with like-minded people living thousands of miles away to pursue and achieve a common goal. The intention is to break down individualism and hierarchical archetypes while upholding a system that gives autonomy and decision-making power to its members.
 
@@ -42,6 +42,8 @@ In the AsyncAPI governance model, you can find two essential roles: contributor 
 
 To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join. 
 
+The TSC is constituted by maintainers because the goal is to empower "working" individuals, not companies that "pay". In other words, it provides equal power to individual and corporate contributors.
+
 The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company.
 
 ## Putting theory into practice
@@ -51,6 +53,8 @@ Summing up, AsyncAPI is committed to democratic management based on two principl
 For doing so, AsyncAPI has several tools that ensure transparency within the project’s open-governance management. Let's see how theory is put into practice:
 
 - **Economy**: all the financial management of the project is managed through Open Collective. It’s an online crowdfunding platform for communities that provides the necessary tools to raise and share the finances raised with complete transparency. You can find out where the money comes from in this space and its use.
+
+The TSC makes decisions on financial expenses through voting.
 
 - **Communication**: To ensure that the principle of transparency governs communication, everything is said and done in public, no matter how insignificant or essential it may be. The community uses GitHub as the first communication and work platform. All decisions are taken there. Secondly, Slack is used as a means of sync communication enablement and keeping the closer bond with the community on daily basis.
 
