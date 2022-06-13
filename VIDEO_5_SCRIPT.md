@@ -10,7 +10,7 @@ Hello everyone! Welcome to this video on how AsyncAPI works. Today, we will talk
 
 ## AsyncAPI and Linux Foundation
 
-In 2020, AsyncAPI started to grow exponentially and impacted the API world significantly. At that still initial moment, the project decides to associate with Postman. It was then that discussions began on what was the best way to improve governance within the project. 
+At that still initial moment, the project receives a significant Postman sponsorship that enables several individuals to work full time on the project. It was then that discussions began on what was the best way to improve governance within the project. 
 
 If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization. Housing the project on such a solid and neutral ground would help to develop its independence and community-driven management. 
 
