@@ -1,6 +1,6 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again! Welcome to a new video about AsyncAPI, the open source initiative that seeks to improve the current state of Event Driven Architectures (EDA). If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
+Hello again! Welcome to a new video about AsyncAPI. If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
 
 Ready or not, here we go! 
 
