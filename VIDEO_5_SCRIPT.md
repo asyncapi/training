@@ -16,7 +16,7 @@ If one thing was crystal clear, it was that AsyncAPI should join a neutral home.
 
 Convinced on the idea of democratizing power and devoted to establishing a horizontal model-based, AsyncAPI had the goal, from its very beginning, of fostering multiple points of view that could enrich its vision, decision-making, and governance. 
 
-With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This move granted neutrality and transparency, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project.
+With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This move granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project.
 
 ## What is transparency
 
