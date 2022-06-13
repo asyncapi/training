@@ -38,7 +38,7 @@ Therefore, all relevant project data are public. The developed tasks are accessi
 
 Partnering with Postman was a crucial moment for assuring the efforts of the AsyncAPI Initiative. This event was the propellant to accelerate the transfer of AsyncAPI to an open government foundation to assure the community that a single company does not control the AsyncAPI Initiative. In doing so, the specification safeguarded against private interests.
 
-In the AsyncAPI governance model, you can find two essential roles: contributor and committer. A contributor is a person that contributes to the project code, docs, or other artifacts. A committer is a person that contributes regularly and is invited by other committers to manage the repository, to have more privileges, and to approve pull requests.
+In the AsyncAPI governance model, you can find two essential roles: contributor and committer. A contributor is a person that contributes to the project code, docs, or other artifacts. A committer (widely known also as maintainer) is a person that contributes regularly and is invited by other committers to manage the repository, to have more privileges, and to approve pull requests.
 
 To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join. 
 
