@@ -12,7 +12,7 @@
     
 -	EDA and AsyncAPI
 
-Hello everyone! Welcome!
+Hello everyone! Welcome back!
 
 In this video, we're going to talk about the different types of API architectures that exist. We'll try to explain their meaning, discover what they bring, what they're used for, and how to analyze them. If after listening to explanation of different architectures you find it all making things super complex, sorry, but it is even more complex as you can mix them all together.
 
@@ -22,17 +22,17 @@ Let's start with web architectures!
 
 APIs can follow two communication models. Synchronous or asynchronous communication. Let's see what they consist of and how they differ:
 
-Synchronous APIs allow the exchange of information in real-time between two machines, such as a videoconference or a phone call. The participants have to be connected at the same time.
+Synchronous APIs allow the simultaneous exchange of information between two machines. It requires the participants to be connected in real-time like, for example, during a phone call.
 
-Asynchronous APIs have been gaining strength in recent years. This type of API allows the exchange of information between machines in a non-simultaneous way, the participants do not have to be connected at the same time. Communication can be done individually or collectively, as in web forums or e-mail. It is also faster and cheaper than synchronous APIs since they make more optimal use of the hardware for their operation.
+Asynchronous APIs have been gaining strength in recent years. This type of API allows the exchange of information between machines in a non-simultaneous way, the participants do not have to be connected at the same time. Communication can be done individually or collectively, as in web forums or e-mail. It's also faster and cheaper than synchronous APIs since they optimize the use of hardware for their operation. 
 
 ## API Architecture definition
 
-API architecture is the process of defining the methodology, development, and implementation of APIs. It results in a set of components and a description of their logical interaction.
+API architecture is the process of defining the methodology, development, and implementation of APIs. It results of this process is a set of components and a description of their logical interaction.
 
-Once the methodology to be worked with has been defined, the operations and security teams shape the specific technical requirements that will describe the future of the API. Another crucial point developed by them is the tiers, API lifecycle management, and API profitability.
+Once the methodology has been defined, the operations and security teams shape the specific technical requirements that will describe the future of the API. Other important aspects that are specified are the tiers, API lifecycle management, and API profitability.
 
-## Types of APIs architecture
+## Types of API architecture
 
 ### Monolithic architecture
 
@@ -48,9 +48,9 @@ Monolithic architecture has three components that interact with a single databas
 
    - Data interface
 
-Software built according to this model works with a single code base. As a result, every time stakeholders want to make updates or changes, they access the same set of code. This can have a ripple effect that affects user-side performance.
+Software built according to this model works with a single code base. As a result, every time stakeholders want to make updates or changes, they access the same set of code. This can have a ripple effect on user-side performance. 
 
-This model can also streamline the ETL pipeline, as data flows into a single database through the monolith. However, even if you implement a microservices model, it can simplify your ETL significantly with a no-code solution.
+This model can also streamline the ETL pipeline, processes used to move data from a source or multiple sources into a database such as a information warehouse. The data flows into a single database through the monolith. However, even if you implement a microservices model, it can simplify your ETL significantly with a no-code solution.
 
 This type of architecture is characterized by:
 
@@ -60,11 +60,11 @@ This type of architecture is characterized by:
 
 - **Affordable**: the development cost is low compared to other architectures.
 
-Some of the problems with this type of architecture are scalability and onboarding difficulty for developers. This has caused this type of software development to stop being used in many projects despite its advantages.
+Some disadvantages of the monolithic architecture are associated with scalability and developer onboarding, which has discouraged the software community from using the monolithic architecture in their projects despite its benefits.
 
 ### Microservices architecture
 
-Microservices architecture is a software application development method that works as a set of small services that run independently and autonomously, providing complete functionality. In it, each microservice is a code that can be in a different programming language, and that performs a specific function. 
+Microservices architecture is a method for developing software applications that consist of small, autonomous services. Each microservice's code can be written in a different language and perform specific functions.
 
 Microservices communicate with each other through APIs and have their own storage systems which avoids overloading and crashing the application.
 
@@ -96,17 +96,17 @@ The main disadvantages of using this type of architecture are the great initial 
 
 ### Event-driven architecture
 
-Event-driven architecture is a software model and architecture used to design applications. In such a system, the capture, communication, processing, and permanence of events are the core structure of the solution. This differs from the traditional request-based model.
+Event-driven architecture, also known as EDA, is a software model and architecture used to design applications. In such a system, the capture, communication, processing, and permanence of events are the core structure of the solution. This differs from the traditional request-based model.
 
-But, what’s an event? Let’s go backwards…
+But, what’s an event? Let's examine what this concept means from a technological perspective.
 
-Events are those significant changes in the state of a system's hardware or software. An event and its notification are not the same things: the latter is a message that the system sends to communicate to another part of the system that a certain event occurred.
+Events are those significant changes in the state of a system's hardware or software. Sometimes, people confuse an event with a notification, however, they're different things. A notification is a message that the system sends to communicate to another part of the system that a certain event occurred.
 
 Events can originate from internal or external sources. They can be generated by a user's activity, for example, when users click the mouse or press a key; from an external source, as in the case of a sensor; or from the system, for instance, when a program is loaded.
 
-This type of architecture is composed of event producers and event consumers. The former detects events and represents them as messages. It does so without knowing the event consumer or the result that the latter will generate. 
+This type of architecture is composed of event producers and event consumers. Event producers detect and represent events as messages without any previous knowledge of the event consumer.
 
-Once an event is detected, it is transmitted from the producer to the consumers through event channels. There it is processed asynchronously thanks to a platform for this purpose. When an event occurs, it must be reported to the consumers, who could process it or simply receive it. 
+The event producer then transmits the message(?) through a series of event channels to the event consumer where a platform receives it. There, the event can be either processed to execute an appropriate response, or simply received. Either way, the processing platform reports the activity to the event consumer.
 
 The processing platform will execute the appropriate response for the event and send the activity to the corresponding consumers. This downstream activity corresponds to where the result of the event will be seen. 
 
@@ -118,7 +118,7 @@ Let's discuss the benefits of event-driven architecture:
 
 - **Flexibility**: EDA allows rapid response to a changing environment, because each event processing component has a single responsibility and is completely decoupled from the others.
 
-The most significant disadvantages associated with this model are the difficult testability of the tests. Being an asynchronous model adds more complexity to this part. The lack of guarantee of obtaining a response to the sender and the scarcity of recovery support in case of partial failure is the most significant drawback.
+The most important disadvantage of this type of architecture is associated with the reliability of the tests which is heavily impacted by its asynchronous nature. The lack of a guarantee for obtaining a response from the event producer and the scarcity of recovery support in case of a partial failure, are also important drawbacks that need to be considered.
 
 Arguably its biggest handicap is the inability to predict when a request or reaction to an event will arrive; these could occur at any time. For this reason, it is often necessary to implement a queuing system at times of heavy traffic.
 
@@ -126,7 +126,7 @@ Arguably its biggest handicap is the inability to predict when a request or reac
 
 AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation and from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven asynchronous APIs too.
 
-To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of the EDA interfaces using AsyncAPI. Much like OpenAPI (fka Swagger) does for REST APIs. 
+To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of the EDA using AsyncAPI. Much like OpenAPI (fka Swagger) does for REST APIs. 
 
 The specification settles the base for a greater and better tooling ecosystem for EDA's. 
 
@@ -138,6 +138,6 @@ One of the reasons for the success of REST APIs has been the existence of standa
 
 You might be looking for a solution to automate and formalize the documentation or code generation of your event-driven (micro)services. Likewise, you might be aiming to establish solid standards for your events and improve the governance of your asynchronous APIs. If so, AsyncAPI is here to help you.
 
-Vice versa, we are looking forward to your feedback and contributions. If you have not yet joined the AsyncAPI community through its Slack or GitHub Discussions, we invite you to participate in the growth of the specification.
+Likewise, you can also help AsyncAPI by giving us feedback and contributing to the project. If you have not yet joined the AsyncAPI community through its Slack or GitHub Discussions, we invite you to participate in the growth of the specification.
 
-See you in the next video!
+We hope you find these videos useful and we look forward to seeing you in the next one!
