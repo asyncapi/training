@@ -13,7 +13,7 @@ In this video, we'll talk about:
 
  Ready? Let's get started!
 
- ## What is AsyncAPI Spec and how did it come about
+## What is AsyncAPI Spec and how did it come about
 
 AsyncAPI is an open-source specification that aims to make working with EDA as easy as it's to work with REST APIs today. But, how to do that?
 
