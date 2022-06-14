@@ -31,13 +31,15 @@ We could even say that AsyncAPI is a specification that facilitates, simplifies,
 
 AsyncAPI Initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. 
 
+AsyncAPI specification is maintained under AsyncAPI Initiative.
+
 ## What is AsyncAPI Initiative and what are its objectives
 
-As an open source initiative, AsyncAPI seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it's to work with REST APIs. That goes from documentation to code generation, from discovery to event management.
+AsyncAPI Initiative is a community that not only maintains the specification. Goal of the initiative is to provide proper tooling support for the spec. That goes from documentation to code generation, from discovery to event management That goes from documentation to code generation, from discovery to event management.
 
 AsyncAPI Initiative currently aims to accomplish three main goals:
 
-1. Unify all API specifications. No one does event-driven architecture alone. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs. Let us embrace reusability!
+1. Reuse other specifications. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs. Let us embrace reusability! you can change to Most developers complement the event architecture with REST (OpenAPI), GraphQL, or Avro and CloudEvents. Let us embrace reusability!
 
 2. Make the development experience super seamless, from idea to production. Users should be able to create their first API in a matter of minutes without prior knowledge of AsyncAPI.
 
