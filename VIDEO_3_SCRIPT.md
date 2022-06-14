@@ -9,7 +9,7 @@ In this video, we'll talk about:
  - What is AsyncAPI Spec and how did it come about
  - What AsyncAPI brings
  - What is AsyncAPI Initiative and what are its objectives
- - AsyncAPI foundations 
+ - AsyncAPI joins Linux Foundation
 
  Ready? Let's get started!
 
