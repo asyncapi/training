@@ -23,7 +23,7 @@ It defines a set of files required to describe an API. These files can then be u
 
 The AsyncAPI Specification doesn't assume any kind of software topology, architecture or pattern. Therefore, a server MAY be a message broker, a web server or any other kind of computer program capable of sending and/or receiving data. However, AsyncAPI offers a mechanism called "bindings" that aims to help with more specific information about the protocol and/or the topology.
 
- ## What AsyncAPI brings
+## What AsyncAPI brings
 
 Its main contribution to the world of APIs is the standardization of how you can design and describe Event-Driven Architectures in a simplified and unified manner.
 
