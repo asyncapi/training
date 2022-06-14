@@ -15,7 +15,7 @@ In this video, we'll talk about:
 
 ## What is AsyncAPI Spec and how did it come about
 
-AsyncAPI is an open-source specification that aims to make working with EDA as easy as it's to work with REST APIs today. But, how to do that?
+AsyncAPI is an open-source specification founded by Fran Mendez, that aims to make working with EDA as easy as it's to work with REST APIs today. But, how to do that?
 
 The Spec is used to describe and document message-driven APIs in a machine-readable format. It’s protocol-agnostic, so you can use it for APIs that work over any protocol (e.g., AMQP, MQTT, WebSockets, Kafka, STOMP, HTTP, etc).
 
