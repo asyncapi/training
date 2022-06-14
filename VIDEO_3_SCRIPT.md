@@ -47,7 +47,7 @@ AsyncAPI Initiative currently aims to accomplish three main goals:
 
 ## AsyncAPI joins Linux Foundation
 
-An important step the initiative took towards its consolidation was to partner with Postman at the end of 2020, a leading collaborative platform developing APIs. This partnership allows investment in a dedicated department working full time on AsyncAPI spec, tools and community-building aspects.
+An important step the initiative took towards its consolidation was to partner with Postman at the end of 2020. This partnership allows investment in a dedicated department working full time on AsyncAPI spec, tools and community-building aspects.
 
 The strategy is to continue improving, implementing resources that make it more complete and solid. This has led to an agreement of joinment between AsyncAPI Initiative and the Linux Foundation in 2021. As a result AsyncAPI Initiative is fostered and hosted by a neutral foundation that guarantees the long-term sustainability and success of the project. 
 
