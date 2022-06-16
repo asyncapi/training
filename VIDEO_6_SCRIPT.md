@@ -1,46 +1,47 @@
 # Video 6: Working in community
 
-- What and why working within a community
+- Collective strength
+- Working as a community
 - AsyncAPI and its community
 - How to join the AsyncAPI community
 
 Hello everybody! I hope that you’re doing well. Welcome again to the AsyncAPI video, where we explain the project and its progress. Today we’ll talk about the AsyncAPI community.
 
-## What and why working within a community
+## Collective strength
 
-Every social group needs some common ground to meet and develop its goals. Working, as well as playing music or enjoying free time, is primarily about sharing things, thoughts, challenges, obstacles, joy, sorrow... And, after all that, find a place of understanding and, hopefully, entertainment. 
+A motor is made up of many parts. They have different shapes, sizes, weight, thickness, function... but they are all important. None of them separately can take you anywhere. In fact, individually they could not propel you to advance a single centimeter. But, with all them working together, as a clockwork, they add strenght enough for taking you many miles away and travel around the world.
 
-A common language, customs, culture, taste, etc., are the foundations where communication and understanding can be found. Paradoxically, this is where we can find all the limits and, at the same time, all the possibilities. 
+Joining forces, working together, we go further. That's clear. Collective strength is always higher than the sum of individual efforts.
 
-However, a community is much more than a mere group of human beings linked by common characteristics or interests. A community is united by goals projected for the future, hoping to build something valuable. The projection of a reachable better place to be.
+But, how to find a space for everyone? Every social group needs some common ground to meet and develop its goals. Working, as well as playing music or enjoying free time, is primarily about sharing things, thoughts, challenges, obstacles, joy, sorrow... And, after all that, find a place of understanding and, hopefully, entertainment. 
 
-But, nowadays, it's not necessary to share the same time and space to create a group of people committed to working on a project. Today the number of virtual communities is growing exponentially, letting people from all over the world exchange knowledge and ideas.
+Collectively, challenges are easier to overcome; everything seems smoother and funnier.
 
-We can define three main characteristics of virtual communities:
+There is not much more to say about why in AsyncAPI we prefer to go along together. To work as a community. 
 
-•	They allow communication between users, either synchronously or asynchronously.
-•	The information can be exchanged in different formats, including images, videos, documents, audio...
-•	They promote meaningful, collaborative, and team-based learning.
+## Working as a community
 
-Beyond generating a sense of belonging, communities facilitate the exchange of information, knowledge, and experiences, contributing to their members' personal and professional development. Virtual communities are, nowadays, increasingly essential for professional and, as well, social.
+A community is united by goals projected for the future, hoping to build something valuable. The projection of a reachable better place to be. Even slowly, if it goes far, as the italians say. 
 
-Human beings use somehow virtual communities to tackle and reverse the problems of physical communities virtual ones are very valuable not when shortening geographical and cultural distances, but also to restore the lack of social integration of groups discriminated within real communities.
+Beyond generating a sense of belonging, communities facilitate the exchange of information, knowledge, and experiences, contributing to their members' personal and professional development. 
 
-## AsyncAPI and its community
+The communities are here to tackle and reverse the problems of physical ones. They somehow are very valuable not when shortening geographical and cultural distances, but also to restore the lack of social integration of groups discriminated within real communities. They are open and inclusive by definition.
 
-As mentioned in previous videos, AsyncAPI is a specification managed and driven by its community. It’s a virtual community open to everyone who participates in the specification. Everyone is welcome. AsyncAPI is devoted to forming a community with the most accurate possible reflection of contemporary society, diverse and inclusive.
+## AsyncAPI Initiative and its community
 
-Being a virtual community comprises many people from a different races, ethnicities, and cultures. As the community grows and more and more people get in, it’s increasingly broad and diverse.
+As mentioned in previous videos, AsyncAPI Initiative provides spec and tools managed and driven by its community. It’s a community open to everyone who participates in the specification. Everyone is welcome. AsyncAPI is devoted to forming a diverse community, comprising many people from different races, ethnicities, and cultures.
+
+That's why AsyncAPI regularly participate in different mentoring programs to onboard open source unexperienced people to the project, to show commitment to mentorship and making community more and more inclusive.
 
 It’s mainly made up of developers, but it’s open to receiving all kinds of professionals who can contribute or collaborate with the project. Everyone has something to say. All kinds of ideas, opinions, inputs, or contributions are welcome. At the same time, all constructive criticism is taken into account to continue growing and improving.
 
 AsyncAPI intends that everyone who arrives feels welcome, respected, and included in any project proposal, idea, or decision-making. It’s intended that the people who make up the community feel that the project is part of them, generating a sense of belonging.
 
-AsyncAPI is its community; the community is the engine that manages, maintains, and drives the specification. Therefore, taking care of and preserving the driving power of the project is to protect and enhance it.
+AsyncAPI is its community; the community is the engine that manages, maintains, and drives the specification. Summing up, the community is about gathering people with the same goals and vision to work as equals together, collaborate and drive the change at a much greater scale than it could be achieved as individuals.
 
 ## How to join the AsyncAPI community
 
-Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. So, AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. This combination is probably the secret to the constant growth of the community and of the project itself.
+AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. This combination is probably the secret to the constant growth of the community and of the project itself.
 
 If you’re not yet part of our community, we’re looking forward to it. We invite you to participate and enjoy yourself with us.
 
@@ -50,4 +51,5 @@ Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing
 
 ## Farewell
 
-Thank you very much for coming this far and joining us in this video. I hope it was enjoyable and that you enjoyed it. We look forward to seeing you in the following video, don't miss it! Have a nice day!
+Thank you very much for coming along. I hope you enjoy the ride. 
+We look forward to seeing you in the following video, don't miss it! Have a nice day!
