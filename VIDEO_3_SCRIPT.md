@@ -1,6 +1,6 @@
 # Video 3: What is AsyncAPI
  
-Hello everyone! Welcome!
+Hello everyone! Welcome back!
 		
 This video will help you understand what AsyncAPI is and how to continue learning about this Open-Source project. 
 
@@ -15,41 +15,41 @@ In this video, we'll talk about:
 
 ## What is AsyncAPI Spec and how did it come about
 
-AsyncAPI is an open-source specification founded by Fran Mendez, that aims to make working with EDA as easy as it's to work with REST APIs today. But, how to do that?
+AsyncAPI is an open-source specification founded by Fran Mendez in 2017. Inspired by OpenAPI, it aims at making working with EDA as easy as working with REST APIs. But, how to do that?
 
-The Spec is used to describe and document message-driven APIs in a machine-readable format. It’s protocol-agnostic, so you can use it for APIs that work over any protocol (e.g., AMQP, MQTT, WebSockets, Kafka, STOMP, HTTP, etc).
+The Spec describes and documents message-driven APIs in a machine-readable format. It's protocol-agnostic, so you can use it for APIs that work over AMQP, MQTT, WebSockets, Kafka, STOMP, HTTP, etc.
 
 It defines a set of files required to describe an API. These files can then be used to create utilities, such as documentation, integration and/or testing tools.
 
-The AsyncAPI Specification doesn't assume any kind of software topology, architecture or pattern. Therefore, a server MAY be a message broker, a web server or any other kind of computer program capable of sending and/or receiving data. However, AsyncAPI offers a mechanism called "bindings" that aims to help with more specific information about the protocol and/or the topology.
+The AsyncAPI Specification doesn't assume any kind of software topology, architecture or pattern. Therefore, a server may be a message broker, a web server or any other kind of computer program capable of sending and/or receiving data. However, AsyncAPI offers a mechanism called "bindings, are the means of transmitting messages from a Service Component Architecture component to a web service and vice versa. That aims to help with more specific information about the protocol and/or the topology. The AsyncAPI specification settles the base for a greater and better tooling ecosystem for EDA's.
 
 ## What AsyncAPI brings
 
-Its main contribution to the world of APIs is the standardization of how you can design and describe Event-Driven Architectures in a simplified and unified manner.
+Its main contribution to the world of APIs is the standardization and simplification of the methods to describe and design EDAs.
 
 We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. Having defined, documented, and accepted the communication between APIs, AsyncAPI provides an increased and more efficient information control.
 
 AsyncAPI Initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. 
 
-AsyncAPI specification is maintained under AsyncAPI Initiative.
+AsyncAPI specification is maintained under the AsyncAPI Initiative.
 
 ## What is AsyncAPI Initiative and what are its objectives
 
-AsyncAPI Initiative is a community that not only maintains the specification. Goal of the initiative is to provide proper tooling support for the spec. That goes from documentation to code generation, from discovery to event management That goes from documentation to code generation, from discovery to event management.
+The AsyncAPI Initiative is a community that not only maintains the specification. The goal of the initiative is to provide proper tooling support for the spec that goes from documentation to code generation and from discovery to event management.
 
-AsyncAPI Initiative currently aims to accomplish three main goals:
+AsyncAPI Initiative currently aims at accomplishing three main goals:
 
 1. Reuse other specifications. Most developers complement the event architecture with REST (OpenAPI), GraphQL, and RPC APIs. Let us embrace reusability! you can change to Most developers complement the event architecture with REST (OpenAPI), GraphQL, or Avro and CloudEvents. Let us embrace reusability!
 
 2. Make the development experience super seamless, from idea to production. Users should be able to create their first API in a matter of minutes without prior knowledge of AsyncAPI.
 
-3. Reach the first position among the most used API specifications. This will require a growth in the number of community members by ensuring it is a community-driven project running under open governance.
+3. Be one of the most popular API spec. This demands constantly growing our community which is expected to occur from being a community-driven project run under open governance
 
 ## AsyncAPI joins Linux Foundation
 
-An important step the initiative took towards its consolidation was to partner with Postman at the end of 2020. This partnership allows investment in a dedicated department working full time on AsyncAPI spec, tools and community-building aspects.
+An important step the AsyncAPI initiative took for its consolidation, was to partner with Postman at the end of 2020. Thanks to this partnership, a dedicated department works full-time on the AsyncAPI spec, its tools, and community-building aspects.
 
-The strategy is to continue improving, implementing resources that make it more complete and solid. This has led to an agreement to host AsyncAPI under the Linux Foundation. As a result AsyncAPI Initiative is fostered and hosted by a neutral foundation that guarantees the long-term sustainability and success of the project. 
+Our strategy is to continue implementing and improving the resources that make AsyncAPI more complete and solid. An agreement to host AsyncAPI under a neutral foundation like Linux, guarantees the long-term sustainability and success of the project.
 
 ## Goodbye to the viewer
 
