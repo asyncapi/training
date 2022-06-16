@@ -47,7 +47,7 @@ The internet of things acted as a real game-changer. Since it was introduced, ev
 
 Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt.
 
-![Protocols supported](https://user-images.githubusercontent.com/77982319/165746023-ed78afbc-598b-4401-843e-6ac851d30303.jpg)
+![Protocols supported](https://user-images.githubusercontent.com/77982319/174030612-d5297f4f-493a-4f28-83f2-259061bfc952.jpg)
 
 AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
 
