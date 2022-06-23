@@ -27,7 +27,7 @@ The AsyncAPI Specification doesn't assume any kind of software topology, archite
 
 Its main contribution to the world of APIs is the standardization and simplification of the methods to describe and design EDAs.
 
-We could even say that AsyncAPI is a specification that facilitates, simplifies, and accelerates the work of developers working with APIs. Having defined, documented, and accepted the communication between APIs, AsyncAPI provides an increased and more efficient information control.
+We could even say that AsyncAPI is a specification that facilitates and simplifies, speeding up the work of developers working with APIs. Having defined, documented, and accepted the communication between APIs, AsyncAPI provides an increased and more efficient information control.
 
 AsyncAPI Initiative also develops and maintains an extensive amount of AsyncAPI tools that accelerate application development. The tools' mechanisms for automating complex and essential tasks facilitate code generation, documentation generation, validators, etc. 
 
