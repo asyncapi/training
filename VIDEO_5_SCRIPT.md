@@ -58,7 +58,7 @@ The TSC makes decisions on financial expenses through voting.
 
 - **Communication**: To ensure that the principle of transparency governs communication, everything is said and done in public, no matter how insignificant or essential it may be. The community uses GitHub as the first communication and work platform. All decisions are taken there. Secondly, Slack is used as a means of sync communication enablement and keeping the closer bond with the community on daily basis.
 
-- **Meetings**: There are different meeting points where the community can meet, propose or discuss any topic related to AsyncAPI. Any interested person can join these meetings and raise any thoughts.
+- **Meetings**: There are different meeting points where the community express any thoughts, propose or discuss any topic related to AsyncAPI. Any interested person can join these meetings and raise any thoughts.
 
   Even though there are meetings, there is a written rule that no decision making is done during them. Meetings are recorded so that people who did not attend can watch the discussion later and participate in the decision-making process.
 
