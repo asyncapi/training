@@ -21,7 +21,7 @@ There is not much more to say about why in AsyncAPI we prefer to go along togeth
 
 ## Working as a community
 
-A community is united by goals projected to the future, hoping to build something valuable. The projection of a reachable better place to be. Even slowly, if it goes far, as the italians say. 
+A community is united by goals projected to the future, hoping to build something valuable. The projection of a reachable better place to be. The person who goes slow will go far. 
 
 Beyond generating a sense of belonging, communities facilitate the exchange of information, knowledge, and experiences, contributing to their members' personal and professional development. 
 
