@@ -1,8 +1,8 @@
 # Video 3: What is AsyncAPI
  
 Hello everyone! Welcome back!
-		
-This video will help you understand what AsyncAPI is and how to continue learning about this Open-Source project. 
+
+My name is ... and in this video will help you understand what AsyncAPI is and how to continue learning about this Open-Source project. 
 
 In this video, we'll talk about:
 
