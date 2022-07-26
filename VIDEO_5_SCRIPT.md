@@ -6,7 +6,7 @@
 - Why AsyncAPI is committed to this model
 - Putting theory into practice
 
-Hello everyone! Welcome to this video on how AsyncAPI works. Today, we will talk about transparency, open governance, and why AsyncAPI is committed to this model. Do you want to learn more? Come over!
+Hello everyone! Welcome to this video on how AsyncAPI works. My name is... Today, we will talk about transparency, open governance, and why AsyncAPI is committed to this model. Do you want to learn more? Come over!
 
 ## AsyncAPI and Linux Foundation
 
@@ -66,6 +66,6 @@ The TSC makes decisions on financial expenses through voting.
 
 ## Goodbye to the viewer
 
-Thanks so much for joining us! I hope you enjoyed it! Enough for today's video. I hope you enjoyed it. Don't forget to join us in the following video.
+Thanks so much for joining us! I hope you enjoyed it! Enough for today's video. Don't forget to join us in the following video.
 See you soon!
 
