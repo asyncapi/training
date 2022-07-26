@@ -9,7 +9,7 @@ Hello everybody! I hope that you’re doing well. Welcome again to the AsyncAPI 
 
 ## Collective strength
 
-A motor is made up of many parts. They have different shapes, sizes, weight, thickness, function... but they are all important. None of them separately could propel you to advance a single centimeter. But, with all them working together, as a clockwork, they add strenght enough for taking you many miles away and travel around the world.
+A engine is made up of many parts. They have different shapes, sizes, weight, thickness, function... but they are all important. None of them separately could propel you to advance a single centimeter. But, with all them working together, as a clockwork, they add strenght enough for taking you many miles away and travel around the world.
 
 Similarly, joined efforts achieve more than individuals. Collective strength is always higher than the sum of individual efforts.
 
