@@ -1,6 +1,6 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again! Welcome to a new video about AsyncAPI. If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
+Hello again!My name is ... Welcome to a new video about AsyncAPI. If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
 
 Ready or not, here we go! 
 
@@ -31,6 +31,8 @@ As we have seen, the two initiatives are significantly similar, but they also co
  
 OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain. We could say that the big difference between the two is that OpenAPI, which focuses on synchronous communication, is used for HTTP protocol. AsyncAPI is used for multiple different protocols designed for async communication.
 
+![Protocols supported](https://user-images.githubusercontent.com/77982319/174030612-d5297f4f-493a-4f28-83f2-259061bfc952.jpg)
+
 These are two complete distinct architectures that require different specifications. That is the main difference between OpenAPI and AsyncAPI. But, yeah, let's jump into details.
 
 ## AsyncAPI and OpenAPI comparison
@@ -48,8 +50,6 @@ The internet of things acted as a real game-changer. Since it was introduced, ev
 One example of this are smartwatches. They put many essential functions and information from the mobile phone on our wrist and measure many body parameters.
 
 Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt.
-
-![Protocols supported](https://user-images.githubusercontent.com/77982319/174030612-d5297f4f-493a-4f28-83f2-259061bfc952.jpg)
 
 AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
 
