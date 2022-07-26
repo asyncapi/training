@@ -1,13 +1,11 @@
 # Video 6: Working in community
 
-
 Hello everybody! I hope that you’re doing well. Welcome again to the AsyncAPI video, where we explain the project and its progress. My name is ... Today we’ll talk about the AsyncAPI community. We will tackel the 
 
 - Collective strength
 - Working as a community
 - AsyncAPI and its community
 - How to join the AsyncAPI community
-
 
 ## Collective strength
 
