@@ -3,7 +3,7 @@
 - AsyncAPI and Linux Foundation
 - What is transparency
 - What is open governance
-- Why AsyncAPI is committed to this model
+- Why AsyncAPI is committed to an open governance model
 - Putting theory into practice
 
 Hello everyone! Welcome to this video on how AsyncAPI works. My name is... Today, we will talk about transparency, open governance, and why AsyncAPI is committed to this model. Do you want to learn more? Come over!
