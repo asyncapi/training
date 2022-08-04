@@ -4,7 +4,7 @@ Hello everybody! I hope that you’re doing well. Welcome again to the AsyncAPI 
 
 - Collective strength
 - Working as a community
-- AsyncAPI and its community
+- AsyncAPI Initiative and its community
 - How to join the AsyncAPI community
 
 ## Collective strength
