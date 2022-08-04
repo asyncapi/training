@@ -4,7 +4,6 @@
 - Brief history of APIs (when and how APIs were born)
 - Types of APIs
 - Benefits of APIs
-- Examples of APIs
 
 Hello! My name is … and today I'm going to talk about APIs. Maybe you've heard of APIs before because they're in almost all the technology we use in our everyday lives.
 
@@ -89,10 +88,6 @@ We highlighted how APIs allow applications to share the information previously, 
 - **Efficiency**: when access to an API is provided, the information is made available immediately. 
 
 - **Integration**: APIs allow information to be easily shared between applications or products. This enables an integrated user experience.
-
-## Example of an API
-
-I think it would be great to give some example of API related to AsyncAPI, any idea or suggestion?
 
 ## Goodbye to viewer
 
