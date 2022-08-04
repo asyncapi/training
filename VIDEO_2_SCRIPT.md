@@ -10,7 +10,7 @@
    - Serverless
    - Event-driven
     
--	EDA and AsyncAPI
+-	AsyncAPI and EDA
 
 Hello everyone! Welcome back! My name is ...
 
