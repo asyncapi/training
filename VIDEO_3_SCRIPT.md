@@ -6,14 +6,14 @@ My name is ... and in this video will help you understand what AsyncAPI is and h
 
 In this video, we'll talk about:
 
- - What is AsyncAPI Spec and how did it come about
+ - What is AsyncAPI Spec, and how did it come about
  - What AsyncAPI brings
- - What is AsyncAPI Initiative and what are its objectives
+ - What is AsyncAPI Initiative, and what are its objectives
  - AsyncAPI joins Linux Foundation
 
  Ready? Let's get started!
 
-## What is AsyncAPI Spec and how did it come about
+## What is AsyncAPI Spec, and how did it come about
 
 AsyncAPI is an open-source specification founded by Fran Mendez in 2017. Inspired by OpenAPI, it aims at making working with EDA as easy as working with REST APIs. But, how to do that?
 
@@ -33,7 +33,7 @@ AsyncAPI Initiative also develops and maintains an extensive amount of AsyncAPI 
 
 AsyncAPI specification is maintained under the AsyncAPI Initiative.
 
-## What is AsyncAPI Initiative and what are its objectives
+## What is AsyncAPI Initiative, and what are its objectives
 
 The AsyncAPI Initiative is a community that not only maintains the specification. The goal of the initiative is to provide proper tooling support for the spec that goes from documentation to code generation and from discovery to event management.
 
