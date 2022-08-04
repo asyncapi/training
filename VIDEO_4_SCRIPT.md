@@ -25,7 +25,7 @@ More concretely, the similarities between these two specifications are the follo
 - They are both extensible.
 - They protect information consumption using different security schemes. (Example: user and password, API keys, certificates, OAuth, OIDC, etc.)
 
-## Differences between AsyncAPI and OpenAPI
+## Differences between them
 
 As we have seen, the two initiatives are significantly similar, but they also cover different fields. 
  
