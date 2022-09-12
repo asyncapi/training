@@ -55,8 +55,6 @@ E-commerce, Social media, cloud computing, mobility… Without a doubt, we are d
 
 Now that we have covered the origins and popularization of API, let's talk about the types of APIs.
 
-There are 4 types of APIs: 
-
 - **Web services APIs**: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
 
     There are four types of Web services APIs:
