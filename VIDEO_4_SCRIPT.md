@@ -29,9 +29,11 @@ More concretely, the similarities between these two specifications are the follo
 
 As we have seen, the two initiatives are significantly similar, but they also cover different fields. 
  
-OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain. We could say that the big difference between the two is that OpenAPI, which focuses on synchronous communication, is used for HTTP protocol. AsyncAPI is used for multiple different protocols designed for async communication.
+OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
 
-![Protocols supported](https://user-images.githubusercontent.com/77982319/174030612-d5297f4f-493a-4f28-83f2-259061bfc952.jpg)
+[Animation 1](https://drive.google.com/file/d/1COqcNvvYpnA8fSJ12gpaw1qnyBuP8NP_/view?usp=sharing)
+
+[Voice-over for the animation- "We could say that the big difference between the two is that OpenAPI, which focuses on synchronous communication, is used for HTTP protocol. AsyncAPI is used for multiple different protocols designed for async communication, Kafka, SNS, SQS, AMQP, MQTT, and Websocket"].
 
 These are two complete distinct architectures that require different specifications. That is the main difference between OpenAPI and AsyncAPI. But, yeah, let's jump into details.
 
@@ -49,9 +51,17 @@ The internet of things acted as a real game-changer. Since it was introduced, ev
 
 One example of this are smartwatches. They put many essential functions and information from the mobile phone on our wrist and measure many body parameters.
 
-Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt.
+Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt. Let's look at an example: 
 
-AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered. 
+[Animation 2](https://drive.google.com/file/d/1kzccrfWs9NHDoDfboXyTEidnCkMfKD94/view?usp=sharing)
+
+[Voice-over for the animation- "The Rest architecture, the one not having a broker, sends notice steadily to see if a process has been completed. So, in this case, the waitress has to check every minute if there are customers or not to send the order to the kitchen and report it every time to the kitchen. The same goes for checking if the pizzas are ready or not. Consequently, there is a non-efficient use of energy and time wasted in unrealized actions"].
+
+[Animation 3](https://drive.google.com/file/d/1iKM8MkwbmdyJ-F3Pgig-LlwilT33lhqN/view?usp=sharing)
+
+[Voice-over for the animation- "In the case of AsyncAPI, which works with EDA, the system has a broker, which acts as an intermediary between the messages and the system. This one coordinates and manages the entire communication process"].
+
+AsyncAPI and OpenAPI are now both under the umbrella of the Linux Foundation. That beautiful coincidence facilitates its combined used, opening a world of API possibilities that can be explored and covered.
 
 Being hosted by Linux Foundation, it is possible to say that AsyncAPI and OpenAPI share a wide common ground, well supported and stable. They share open standards with community governance. They should also continue to be integrated with open-source tooling and commercial products.
 
