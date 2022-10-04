@@ -12,11 +12,15 @@ Hello everyone! Welcome to this video on how AsyncAPI works. My name is... Today
 
 Even in the early period, the project receives a significant Postman sponsorship that enables several individuals to work full time on the project. It was then that discussions began on what was the best way to improve governance within the project. 
 
-If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization. Housing the project on such a solid and neutral ground would help to develop its independence and community-driven management. 
+If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization.
+
+[Animation](https://drive.google.com/file/d/1otcIh2KjB3UEzmyWfHz9UGqBqj6hQa2-/view?usp=sharing)
+
+[Voice-over for the animation- " Housing the project on such a solid and neutral ground would help to develop its independence and community-driven management. 
 
 From the beginning, AsyncAPI has established horizontal models that encourage the democratization of its processes. Thus encouraging multiple points of view could enrich its vision, decision-making, and governance. 
 
-With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This collaboration granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project.
+With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This collaboration granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project"].
 
 ## What is transparency
 
