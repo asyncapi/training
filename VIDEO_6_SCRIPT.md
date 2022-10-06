@@ -41,13 +41,15 @@ AsyncAPI is its community; the community is the engine that manages, maintains, 
 
 ## How to join the AsyncAPI community
 
-AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. This combination is probably the secret to the constant growth of the community and of the project itself.
+[Animation](https://drive.google.com/file/d/1z4AxAp8M561mBf4P-vJx2w2kUVjRGNj6/view?usp=sharing)
+
+[Voice-over for the animation- "AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. This combination is probably the secret to the constant growth of the community and of the project itself.
 
 If you’re not yet part of our community, we’re looking forward to it. We invite you to participate and enjoy yourself with us.
 
 The steps to joining our community are very simple: follow us on our social networks, LinkedIn, Twitter, and Youtube.
 
-Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing from you and seeing how we can make the project better.
+Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing from you and seeing how we can make the project better"].
 
 ## Farewell
 
