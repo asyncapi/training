@@ -14,7 +14,7 @@ Even in the early period, the project receives a significant Postman sponsorship
 
 If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization.
 
-[Animation](https://drive.google.com/file/d/1otcIh2KjB3UEzmyWfHz9UGqBqj6hQa2-/view?usp=sharing)
+[Animation 1](https://drive.google.com/file/d/1otcIh2KjB3UEzmyWfHz9UGqBqj6hQa2-/view?usp=sharing)
 
 [Voice-over for the animation- " Housing the project on such a solid and neutral ground would help to develop its independence and community-driven management. 
 
@@ -44,7 +44,15 @@ Partnering with Postman was a crucial moment for assuring the efforts of the Asy
 
 In the AsyncAPI governance model, you can find two essential roles: contributor and committer. A contributor is a person that contributes to the project code, docs, or other artifacts. A committer (widely known also as maintainer) is a person that contributes regularly and is invited by other committers to manage the repository, to have more privileges, and to approve pull requests.
 
-To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join. 
+To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join.
+
+Let's see an example to understand these roles better: 
+
+[Animation 2](https://drive.google.com/file/d/1iSOZiaDQCQz5IDDOT8Vn4IoxMooq_Qe_/view?usp=sharing)
+
+[Voice-over for the animation- " As we said before, the maintainers are the people in charge of managing a repository. In this case, the maintainers are the workers wearing the yellow helmet, and the people wearing the white helmet are the contributors.
+
+If a contributor comes up with a relevant idea for the project, they should consult the TSC. If the TSC, which in this case would be the architects, approves the idea, work is done on the execution of the idea. In this case, a couple of buildings"].
 
 The TSC is constituted by maintainers because the goal is to empower "working" individuals, not companies that "pay". In other words, it provides equal power to individual and corporate contributors.
 
