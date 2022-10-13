@@ -14,15 +14,15 @@
 
 Hello everyone! Welcome back! My name is ...
 
-In this video, we're going to talk about the different types of API architectures that exist. We'll try to explain their meaning, discover what they bring, what they're used for, and how to analyze them. If after listening to explanation of different architectures you find it all making things super complex, sorry, but it is even more complex as you can mix them all together.
+In this video, we're going to talk about the different types of API architectures that exist. We'll try to explain their meaning, discover what they bring, what they're used for, and how to analyze them. If after listening to this video you find everything super complex, I'm really sorry, but that's the way it is. Honestly, I can tell you that things can be even more complex since you can mix all the different architectures together. As a lego game!
 
-Let's start with web architectures!
+So let's start the fun!
 
 ## Synchronous and asynchronous APIs
 
-APIs can follow two communication models. Synchronous or asynchronous communication. Let's see what they consist of and how they differ:
+APIs can follow two communication models: whether Synchronous or asynchronous. Let's see what they consist of and how they differ:
 
-Synchronous APIs allow the simultaneous exchange of information between two machines. It requires the participants to be connected in real-time like.
+Synchronous APIs allow the simultaneous exchange of information between two machines. It requires the participants to be connected in real-time.
 
 Asynchronous APIs have been gaining strength in recent years. This type of API allows the exchange of information between machines in a non-simultaneous way, the participants do not have to be connected at the same time. Communication can be done individually or collectively. It's also faster and cheaper than synchronous APIs since they optimize the use of hardware for their operation. 
 
@@ -34,7 +34,7 @@ Let's look at an example:
 
 ## API Architecture definition
 
-API architecture is the process of defining the methodology, development, and implementation of APIs. It results of this process is a set of components and a description of their logical interaction.
+API architecture is the process of defining the methodology, development, and implementation of APIs. The results of this process is a set of components and a description of their logical interaction.
 
 Once the methodology has been defined, the operations and security teams shape the specific technical requirements that will describe the future of the API. Other important aspects that are specified are the tiers, API lifecycle management, and API profitability.
 
@@ -42,7 +42,9 @@ Once the methodology has been defined, the operations and security teams shape t
 
 ### Monolithic architecture
 
-Monolithic architecture describes buildings which are carved, cast, or excavated from a single piece of material, historically from rock. This is the traditional structure for software applications. Monolithic is an end-to-end architecture, in which all aspects of the software function as a single unit. 
+Monolithic architecture describes a kind of construction made just from a single piece of material, historically from rock. A standing stone. Undivisible.
+
+The same goes for the traditional structure for software applications. Monolithic is an end-to-end architecture, in which all aspects of the software function as a single unit. 
 
 Analysts often compare it to microservices, a newer model for application development. In the microservices model, components are modular, work independently, and are coupled together as needed for optimal functionality.
 
