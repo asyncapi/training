@@ -1,6 +1,6 @@
 # Video 4: AsyncAPI and OpenAPI
 
-Hello again!My name is ... Welcome to a new video about AsyncAPI. If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
+Hello again! My name is ... Welcome to a new video about AsyncAPI. If you wanna know more about the spec just check the previous video (3) on "What is AsyncAPI". This video will discuss what AsyncAPI and OpenAPI have in common and how they differ. 
 
 Ready or not, here we go! 
 
@@ -12,7 +12,7 @@ The current OpenAPI specification grew out of the predecessor project, Swagger. 
 
 ## Similarities between AsyncAPI and OpenAPI
 
-AsyncAPI's ultimate goal is to work with EDA architectures as simply as working with Rest APIs. For those who don't know what REST APIs are, we will briefly say that they defines a set of functions that developers can make requests and receive responses via the HTTP protocol. Because the REST API uses HTTP, they can be used by virtually any programming language and are easy to test. 
+AsyncAPI's ultimate goal is to work with EDA architectures as simply as working with Rest APIs. For those who don't know what REST APIs are, we will briefly say that they defines a set of functions where developers can make requests and receive responses via the HTTP protocol. Because the REST API uses HTTP, they can be used by virtually any programming language and are easy to test. 
 
 Back to the comparison, the AsyncAPI specification in the asynchronous world is analogous to OpenAPI in the synchronous world. 
 
