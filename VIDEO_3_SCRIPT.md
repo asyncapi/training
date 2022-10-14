@@ -9,7 +9,7 @@ In this video, we'll talk about:
  - What is AsyncAPI Spec, and how did it come about
  - What AsyncAPI brings
  - What is AsyncAPI Initiative, and what are its objectives
- - The relation between AsyncAPI and Linux Foundation
+ - AsyncAPI on the long-term
 
  Ready? Let's get started!
 
@@ -45,7 +45,7 @@ AsyncAPI Initiative currently aims at accomplishing three main goals:
 
 3. Be one of the most popular API spec. As a community-driven project run under open governance, AsyncAPI needs a constantly growing community taking care of it.
 
-## The relation between AsyncAPI and Linux Foundation
+## AsyncAPI on the long-term
 
 An important step to AsyncAPI initiative consolidation was to partner with Postman at the end of 2020. Thanks to this partnership, a dedicated department works full-time on the AsyncAPI spec, its tools, and community-building aspects.
 
