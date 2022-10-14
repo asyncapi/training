@@ -1,16 +1,16 @@
 # Video 5: Open governance and transparency
 
 - AsyncAPI and Linux Foundation
-- What is transparency
-- What is open governance
-- Why AsyncAPI is committed to an open governance model
+- Why transparency
+- Why open governance
+- AsyncAPI governance model
 - Putting theory into practice
 
 Hello everyone! Welcome to this video on how AsyncAPI works. My name is... Today, we will talk about transparency, open governance, and why AsyncAPI is committed to this model. Do you want to learn more? Come over!
 
 ## AsyncAPI and Linux Foundation
 
-Even in the early period, the project receives a significant Postman sponsorship that enables several individuals to work full time on the project. It was then that discussions began on what was the best way to improve governance within the project. 
+Even in its earlier period, asyncAPI received a significant Postman sponsorship that enabled several individuals to work full time on the project. It was then when discussions began on what was the best way to improve governance within the project. 
 
 If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization.
 
@@ -22,7 +22,7 @@ From the beginning, AsyncAPI has established horizontal models that encourage th
 
 With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This collaboration granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project"].
 
-## What is transparency
+## Why transparency
 
 Transparency has become a fundamental concept in the democratization processes undertaken by governments, institutions, companies, organizations, projects... In its ideal state, democracy is nothing more than a method that allows the community members to analyze reality from different points of view to make decisions freely and for the common good.
 
@@ -30,15 +30,15 @@ Organizational transparency can be defined as a deliberate attempt to create an 
 
 When we talk about transparency, we refer to that attitude and methodology that allows controlling the financial aspects of a company to fulfill its mission and vision with the participation of all the people in an organization. Transparency requires obligations, clarity, and implication to sustain it. The information provided must be truthful, based on evidence that can be checked and verified.
 
-## What is open governance
+## Why open governance
 
 Open governance is a model that promotes the principles of transparency, integrity, accountability, and stakeholder participation in support of democracy and inclusive growth. Driven by the participation of all the people that make up a project, company, or institution, it promotes engagement and democracy.
 
 In the same way, this model facilitates working with collaboration among people who might be located in distant regions but who share the same values. The intention is to break down individualism and hierarchical archetypes while upholding a system that gives autonomy and decision-making power to its members.
 
-Therefore, all relevant project data are public. The developed tasks are accessible and open to the participation of the community. This is intended to cultivate an environment of trust and respect for to encourage users to collaborate. In this adaptable and flexible atmosphere, nothing is imposed or taken for granted.
+Therefore, all relevant project data are public. The developed tasks are accessible and open to the participation of the community. This is intended to cultivate an environment of trust and respect, encouraging users to collaborate. In this adaptable and flexible atmosphere, nothing is imposed or taken for granted.
 
-## Why AsyncAPI is committed to an Open Governance model
+## AsyncAPI governance model
 
 Partnering with Postman was a crucial moment for assuring the efforts of the AsyncAPI Initiative. This event was the propellant to accelerate the transfer of AsyncAPI to an open government foundation to assure the community that a single company does not control the AsyncAPI Initiative. In doing so, the specification safeguarded against private interests.
 
@@ -62,7 +62,7 @@ The TSC's system of operation is by voting. An issue or debate is posted, and th
 
 Summing up, AsyncAPI is committed to democratic management based on two principles: horizontality in decision making and transparency in project management. From the beginning of the specification, AsyncAPI has relied on collective effort and group identity. The means are as crucial as the goal. Responsibilities are shared, understanding that a community can only achieve success jointly.
 
-For to do so, AsyncAPI has several tools that ensure transparency within the project’s open-governance management. Let's see how theory is put into practice:
+For doing so, AsyncAPI has several tools that ensure transparency within the project’s open-governance management. Let's see how theory is put into practice:
 
 - **Economy**: AsyncAPI uses the Open Collective to manage its finances. Open Collective is a crowdfunding platform that provides tools to raise and share finances with complete transparency. You can consult a money source and how it is used within a project.
 
