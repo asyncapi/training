@@ -14,7 +14,7 @@ Even in its earlier period, asyncAPI received a significant Postman sponsorship 
 
 If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization.
 
-[Animation 1](https://drive.google.com/file/d/1otcIh2KjB3UEzmyWfHz9UGqBqj6hQa2-/view?usp=sharing)
+[Animation 1](https://drive.google.com/file/d/1qOvaYODHNcLZViBdRmhsRP8Q0rA2f20w/view?usp=share_link)
 
 [Voice-over for the animation- " Housing the project on such a solid and neutral ground would help to develop its independence and community-driven management. 
 
@@ -48,7 +48,7 @@ To supervise the initiative, it was decided to create a Technical Steering Commi
 
 Let's see an example to understand these roles better: 
 
-[Animation 2](https://drive.google.com/file/d/1iSOZiaDQCQz5IDDOT8Vn4IoxMooq_Qe_/view?usp=sharing)
+[Animation 2](https://drive.google.com/file/d/1zXL8UirmYd1POk3qannH1YHFX4BjiUkV/view?usp=share_link)
 
 [Voice-over for the animation- " As we said before, the maintainers are the people in charge of managing a repository. In this case, the maintainers are the workers wearing the yellow helmet, and the people wearing the white helmet are the contributors.
 
