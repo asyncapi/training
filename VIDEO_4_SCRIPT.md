@@ -31,7 +31,7 @@ As we have seen, the two initiatives are significantly similar, but they also co
  
 OpenAPI is a solution for REST, and AsyncAPI is a solution for message-based architectures. Each aims to serve a different domain.
 
-[Animation 1](https://drive.google.com/file/d/1COqcNvvYpnA8fSJ12gpaw1qnyBuP8NP_/view?usp=sharing)
+[Animation 1](https://drive.google.com/file/d/1COqcNvvYpnA8fSJ12gpaw1qnyBuP8NP_/view?usp=share_link)
 
 [Voice-over for the animation- "We could say that the big difference between the two is that OpenAPI, which focuses on synchronous communication, is used for HTTP protocol. AsyncAPI is used for multiple different protocols designed for async communication, Kafka, SNS, SQS, AMQP, MQTT, and Websocket"].
 
@@ -53,11 +53,11 @@ One example of this are smartwatches. They put many essential functions and info
 
 Establishing asynchronous communication between microservices makes them more reliable, faster, easier to scale, and more agile to adopt. Let's look at an example: 
 
-[Animation 2](https://drive.google.com/file/d/1kzccrfWs9NHDoDfboXyTEidnCkMfKD94/view?usp=sharing)
+[Animation 2](https://drive.google.com/file/d/14u-G1lowdsWN5sBOnqww8xReeZKMBhDy/view?usp=share_link)
 
 [Voice-over for the animation- "The Rest architecture, the one not having a broker, sends notice steadily to see if a process has been completed. So, in this case, the waitress has to check every minute if there are customers or not to send the order to the kitchen and report it every time to the kitchen. The same goes for checking if the pizzas are ready or not. Consequently, there is a non-efficient use of energy and time wasted in unrealized actions"].
 
-[Animation 3](https://drive.google.com/file/d/1iKM8MkwbmdyJ-F3Pgig-LlwilT33lhqN/view?usp=sharing)
+[Animation 3](https://drive.google.com/file/d/1FSWG2F0AO8lDW5zGcYGlSTz7edXys8q6/view?usp=share_link)
 
 [Voice-over for the animation- "In the case of AsyncAPI, which works with EDA, the system has a broker, which acts as an intermediary between the messages and the system. This one coordinates and manages the entire communication process"].
 
