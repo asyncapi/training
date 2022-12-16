@@ -41,7 +41,7 @@ AsyncAPI is its community; the community is the engine that manages, maintains, 
 
 ## How to join the AsyncAPI community
 
-[Animation](https://drive.google.com/file/d/1z4AxAp8M561mBf4P-vJx2w2kUVjRGNj6/view?usp=sharing)
+[Animation](https://drive.google.com/file/d/14RYy0KoWe2h92FLkAO5UrMEOJr8JKR6R/view?usp=share_link)
 
 [Voice-over for the animation- "AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. This combination is probably the secret to the constant growth of the community and of the project itself.
 
