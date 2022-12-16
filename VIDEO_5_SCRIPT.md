@@ -48,7 +48,7 @@ To supervise the initiative, it was decided to create a Technical Steering Commi
 
 Let's see an example to understand these roles better: 
 
-[Animation 2](https://drive.google.com/file/d/1zXL8UirmYd1POk3qannH1YHFX4BjiUkV/view?usp=share_link)
+[Animation 2](https://drive.google.com/file/d/1EgROrcPz5eVXTnZwhDBU2KcuZqu62_Ve/view?usp=share_link)
 
 [Voice-over for the animation- " As we said before, the maintainers are the people in charge of managing a repository. In this case, the maintainers are the workers wearing the yellow helmet, and the people wearing the white helmet are the contributors.
 
