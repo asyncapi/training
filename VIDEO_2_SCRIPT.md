@@ -10,7 +10,7 @@
    - Serverless
    - Event-driven
     
--	AsyncAPI and EDA
+- AsyncAPI and EDA
 
 Hello everyone! Welcome back! My name is ...
 
@@ -20,7 +20,7 @@ So let's start the fun!
 
 ## Synchronous and asynchronous APIs
 
-APIs can follow two communication models: whether Synchronous or asynchronous. Let's see what they consist of and how they differ:
+***APIs can follow two communication models: whether Synchronous or asynchronous***. Let's see what they consist of and how they differ:
 
 Synchronous APIs allow the simultaneous exchange of information between two machines. It requires the participants to be connected in real-time.
 
@@ -32,17 +32,17 @@ Let's look at an example:
 
 [Voice-over for the animation- "The working of a phone call might be understood as similar to a synchronous API: on them, there is a simultaneous interaction of the two parties, sender and receiver. On the other hand, communication via email might be understood as similar to the working of asynchronous APIs. They don’t need to have both parties connected simultaneously"].
 
-## API Architecture definition
+## ***API Architecture definition***
 
-API architecture is the process of defining the methodology, development, and implementation of APIs. The results of this process is a set of components and a description of their logical interaction.
+API architecture ***is the process of defining the methodology, development, and implementation of APIs. The results of this process is a set of components and a description of their logical interaction.***
 
 Once the methodology has been defined, the operations and security teams shape the specific technical requirements that will describe the future of the API. Other important aspects that are specified are the tiers, API lifecycle management, and API profitability.
 
-## Types of API architecture
+## ***Types of API architecture***
 
 ### Monolithic architecture
 
-Monolithic architecture describes a kind of construction made just from a single piece of material, historically from rock. A standing stone. Undivisible.
+***Monolithic architecture describes a kind of construction made just from a single piece of material, historically from rock. A standing stone. Undivisible.***
 
 The same goes for the traditional structure for software applications. Monolithic is an end-to-end architecture, in which all aspects of the software function as a single unit. 
 
@@ -76,7 +76,7 @@ Some disadvantages of the monolithic architecture are associated with scalabilit
 
 ### Microservices architecture
 
-Microservices architecture is a method for developing software applications that consist of small, autonomous services. Each microservice's code can be written in a different language and perform specific functions.
+***Microservices architecture is a method for developing software applications that consist of small, autonomous services. Each microservice's code can be written in a different language and perform specific functions.***
 
 Microservices communicate with each other through APIs and have their own storage systems which avoids overloading and crashing the application.
 
@@ -94,9 +94,9 @@ So, let's talk about some advantages of implementing microservices architecture:
 
 This model also has disadvantages such as the complexity of versioning, problems with integration and development, little support, and the high memory consumption involved in working with it.
 
-### Serverless architecture
+### ***Serverless architecture***
 
-It is a computing model that uses the cloud as the environment for executing applications and processes, dispensing with traditional servers. In Serverless, services are managed by the FaaS (Function as a Service) service provider.
+***It is a computing model that uses the cloud as the environment for executing applications and processes, dispensing with traditional servers. In Serverless, services are managed by the FaaS (Function as a Service) service provider.***
 
 In this way, the Serverless architecture facilitates the work of developers, as they can dispense with tasks such as the allocation of server resources. With Serverless, the code runs directly in containers. The organization is external to the developers, who only have to pay the FaaS provider for the time of use of its services.
 
@@ -116,7 +116,7 @@ The main disadvantages of using this type of architecture are the great initial 
 
 ### Event-driven architecture
 
-Event-driven architecture, also known as EDA, is a software model and architecture used to design applications. In such a system, the capture, communication, processing, and permanence of events are the core structure of the solution. This differs from the traditional request-based model.
+***Event-driven architecture, also known as EDA, is a software model and architecture used to design applications. In such a system, the capture, communication, processing, and permanence of events are the core structure of the solution. This differs from the traditional request-based model.***
 
 But, what’s an event? Let's examine what this concept means from a technological perspective.
 
@@ -148,7 +148,7 @@ Other disadvantages are the reliability of the tests, which is heavily impacted 
 
 ## ASYNCAPI and EDA
 
-AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation and from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven asynchronous APIs too.
+***AsyncAPI is an open-source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). Its long-term goal is to make working with EDAs as easy as it is to work with REST APIs. That goes from documentation to code generation and from discovery to event management. Most of the processes you apply to your REST APIs nowadays would be applicable to your event-driven asynchronous APIs too.***
 
 To make this happen, the first step has been to create a specification that allows developers, architects, and product managers to define the interfaces of the EDA using AsyncAPI. Much like OpenAPI (fka Swagger) does for REST APIs. 
 
@@ -156,7 +156,7 @@ The specification settles the base for a greater and better tooling ecosystem fo
 
 The event architecture allows you to create more accessible applications with less coupling between services, thus enabling a highly flexible architecture. These fundamental characteristics make this model the best choice for AsyncAPI development.
 
-One of the reasons for the success of REST APIs has been the existence of standards like OpenAPI that allow you to edit specifications, create documentation automatically, mock generators, etc. And it is the contribution to this success that is the main driver of AsyncAPI. Currently, the strategy is to continue improving, implementing resources that make it more complete and solid. 
+***One of the reasons for the success of REST APIs has been the existence of standards like OpenAPI that allow you to edit specifications, create documentation automatically, mock generators, etc. And it is the contribution to this success that is the main driver of AsyncAPI. Currently, the strategy is to continue improving, implementing resources that make it more complete and solid.***
 
 ## Goodbye to the viewer
 
@@ -165,3 +165,8 @@ You might be looking for a solution to automate and formalize the documentation 
 Likewise, you can also help AsyncAPI by giving us feedback and contributing to the project. If you have not yet joined the AsyncAPI community through its Slack or GitHub Discussions, we invite you to participate in the growth of the specification.
 
 We hope you find these videos useful and we look forward to seeing you in the next one!
+
+---
+
+* The italic and bold text is the script of the short version of the video.
+* Maybe the animations of this video could also be used as independent short videos.
