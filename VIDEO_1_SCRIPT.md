@@ -11,9 +11,9 @@ We're going to dive a little bit into their history and origins, explaining what
 
 Let’s go!
 
-## What are APIs
+## ***What are APIs***
 
-API is the acronym for Application Programming Interface. APIs are a tool that facilitates the communication and relationship between several applications. It’s the way apps are able to exchange messages or data and understand each other. 
+***API is the acronym for Application Programming Interface. APIs are a tool that facilitates the communication and relationship between several applications. It’s the way apps are able to exchange messages or data and understand each other.***
 
 APIs allow your products and services to communicate with others, without needing to know how they are implemented. An API is a set of definitions and protocols used to develop and integrate application software.
 
@@ -51,44 +51,47 @@ While all this was happening on the internet, on our computers, smartphones were
 
 E-commerce, Social media, cloud computing, mobility… Without a doubt, we are definitely living in the Web API era.
 
-## Types of APIs
+## ***Types of APIs***
 
 Now that we have covered the origins and popularization of API, let's talk about the types of APIs.
 
-- **Web services APIs**: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
+- ***Web services APIs***: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
 
-    There are four types of Web services APIs:
+    ***There are four types*** of Web services APIs:
 
-    •	SOAP (Simple Object Access Protocol), a standard protocol for exchanging information and data in XML between two objects.
+    •	***SOAP*** (Simple Object Access Protocol), ***a standard protocol for exchanging information and data in XML between two objects.***
 
-    •	XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.
+    •	***XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.***
 
-    •	JSON-RPC, same as XML-RPC but in JSON format. 
+    •	***JSON-RPC, same as XML-RPC but in JSON format.***
 
-    •	REST (Representational State Transfer), a software architecture for hypermedia systems on the World Wide Web; a REST API often uses the HTTP protocol.
+    •	***REST*** (Representational State Transfer), ***a software architecture for hypermedia systems on the World Wide Web; a REST API often uses the HTTP protocol.***
 
-- **Library-based APIs**: These are APIs designed for a specific programming language. They are a means to reuse libraries from other software or other parts of the same software.
+- ***Library-based APIs: These are APIs designed for a specific programming language. They are a means to reuse libraries from other software or other parts of the same software.***
 
-- **Function APIs in operating systems**: software programs are continuously interacting with operating systems (OS). In many cases, the way they do so is through APIs. Operating systems such as Windows have APIs that enable such communication between programs and the OS.
+- ***Function APIs in operating systems: software programs are continuously interacting with operating systems (OS). In many cases, the way they do so is through APIs.*** Operating systems such as Windows have APIs that enable such communication between programs and the OS.
 
-## Benefits of APIs
+## ***Benefits of APIs***
 
 We have highlighted how APIs allow applications to share the information previously, this is called Integration. Now let's discuss other benefits that APIs have:
 
-- **Adaptation**: it is a fact that time change thing and APIs help anticipate changes. When working on this technology, data migration can be better supported, while offering a better review of the information. 
+- ***Adaptation***: it is a fact that time change thing and APIs help anticipate changes. When working on this technology, data migration can be better supported, while offering a better review of the information. 
 
-- **Automation**: Through APIs, workflows can be updated so that they can be done in less time while being more productive.
+- ***Automation***: Through APIs, workflows can be updated so that they can be done in less time while being more productive.
 
-- **Flexibility**: enabling API access to app components provides flexibility in the delivery of services and information.  
+- ***Flexibility***: enabling API access to app components provides flexibility in the delivery of services and information.  
 
-- **Customization**: through APIs, any user can customize content and services.
+- ***Customization***: through APIs, any user can customize content and services.
 
-- **Efficiency**: when access to an API is provided, the information is made available immediately. 
+- ***Efficiency***: when access to an API is provided, the information is made available immediately. 
 
-- **Integration**: APIs allow information to be easily shared between applications or products. This enables an integrated user experience.
+- ***Integration***: APIs allow information to be easily shared between applications or products. This enables an integrated user experience.
 
 ## Goodbye to viewer
 
 I hope that the idea of what an API is and its environment are clearer now to you. It’s good to know and value what was the long, winding road and previous efforts made before a tool was implemented. 
 
 If you have any questions about today's video, do not hesitate to ask through the AsyncAPI Slack or through our GitHub Discussions. Join our Open-Source community and participate! 
+
+---
+* The italic and bold text is the script of the short version of the video.
