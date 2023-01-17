@@ -1,4 +1,4 @@
-# Video 6: Working in community
+# Video 6: ***Working in community***
 
 Hello everybody! I hope that you’re doing well. Welcome again. My name is ... Today we’ll talk about the AsyncAPI community. In this video we will tackle the following items:
 
@@ -29,29 +29,33 @@ Communities are open and inclusive by definition. They are here to tackle and re
 
 ## AsyncAPI Initiative and its community
 
-As mentioned in previous videos, the AsyncAPI Initiative provides spec and tools managed and driven by its community. It’s a community open to anyone interested in participating in the specification. Everyone is welcome. AsyncAPI is devoted to forming a diverse community, comprising many people from different races, ethnicities, and cultures.
+As mentioned in previous videos, ***the AsyncAPI Initiative provides spec and tools managed and driven by its community. It’s a community open to anyone interested in participating in the specification. Everyone is welcome. AsyncAPI is devoted to forming a diverse community, comprising many people from different races, ethnicities, and cultures.***
 
-That's why AsyncAPI regularly participate in different mentoring programs dedicated to onboarding inexperienced people to the project and making the community more inclusive.
+***That's why AsyncAPI regularly participate in different mentoring programs dedicated to onboarding inexperienced people to the project and making the community more inclusive.***
 
-The majority of the AsyncAPI community members are developers, but it remains open to receiving all kinds of professionals who can contribute or collaborate with the project. Everyone has something to say. All kinds of ideas, opinions, inputs, or contributions are welcome. At the same time, all constructive criticism is taken into account to continue growing and improving.
+***The majority of the AsyncAPI community members are developers, but it remains open to receiving all kinds of professionals who can contribute or collaborate with the project. Everyone has something to say. All kinds of ideas, opinions, inputs, or contributions are welcome. At the same time, all constructive criticism is taken into account to continue growing and improving.***
 
-AsyncAPI intends to make everyone feel welcomed, respected, and included in any project proposal, idea, or decision-making. It’s intended that the people who make up the community feel that the project is part of them, generating a sense of belonging.
+***AsyncAPI intends to make everyone feel welcomed, respected, and included in any project proposal, idea, or decision-making. It’s intended that the people who make up the community feel that the project is part of them, generating a sense of belonging.***
 
 AsyncAPI is its community; the community is the engine that manages, maintains, and drives the specification. Summing up, the community is about gathering people with the same goals and vision to work as equals together, collaborate and drive the change at a much greater scale than it could be achieved as individuals.
 
-## How to join the AsyncAPI community
+## ***How to join the AsyncAPI community***
 
 [Animation](https://drive.google.com/file/d/14RYy0KoWe2h92FLkAO5UrMEOJr8JKR6R/view?usp=share_link)
 
 [Voice-over for the animation- "AsyncAPI mainly relies on accepting difference as a virtue and valuing trust in people to construct a solid and coherent community. Feeling comfortable, welcome, trustworthy is the only way to create a sense of belonging. This combination is probably the secret to the constant growth of the community and of the project itself.
 
-If you’re not yet part of our community, we’re looking forward to it. We invite you to participate and enjoy yourself with us.
+***If you’re not yet part of our community, we’re looking forward to it. We invite you to participate and enjoy yourself with us.***
 
-The steps to joining our community are very simple: follow us on our social networks, LinkedIn, Twitter, and Youtube.
+***The steps to joining our community are very simple: follow us on our social networks, LinkedIn, Twitter, and Youtube.***
 
-Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing from you and seeing how we can make the project better"].
+***Join AsyncAPI's Slack, GitHub, and visit our website. We look forward to hearing from you and seeing how we can make the project better"].***
 
 ## Farewell
 
 Thank you very much for coming along. I hope you enjoy the ride. 
 We look forward to seeing you in the following video, don't miss it! Have a nice day!
+
+---
+
+* The italic and bold text is the script of the short version of the video.
