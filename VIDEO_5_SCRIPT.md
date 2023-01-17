@@ -1,4 +1,4 @@
-# Video 5: Open governance and transparency
+# Video 5: ***Open governance and transparency***
 
 - AsyncAPI and Linux Foundation
 - Why transparency
@@ -10,7 +10,7 @@ Hello everyone! Welcome to this video on how AsyncAPI works. My name is... Today
 
 ## AsyncAPI and Linux Foundation
 
-Even in its earlier period, asyncAPI received a significant Postman sponsorship that enabled several individuals to work full time on the project. It was then when discussions began on what was the best way to improve governance within the project. 
+***Even in its earlier period, AsyncAPI received a significant Postman sponsorship that enabled several individuals to work full-time on the project. It was then when discussions began on what was the best way to improve governance within the project.***
 
 If one thing was crystal clear, it was that AsyncAPI should join a neutral home. But not just any neutral home. It needed to join a well-established and trusted organization.
 
@@ -20,7 +20,7 @@ If one thing was crystal clear, it was that AsyncAPI should join a neutral home.
 
 From the beginning, AsyncAPI has established horizontal models that encourage the democratization of its processes. Thus encouraging multiple points of view could enrich its vision, decision-making, and governance. 
 
-With these ideas and principles clear, after a long time of searches and negotiations, AsyncAPI joined the Linux Foundation umbrella in March 2021. This collaboration granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project"].
+With these ideas and principles clear, after a long time of searches and negotiations, ***AsyncAPI joined the Linux Foundation umbrella in March 2021. This collaboration granted neutrality and open governance, ensuring that the specification will continue to be driven democratically by the people who contribute their time and effort to the project"].***
 
 ## Why transparency
 
@@ -38,13 +38,13 @@ In the same way, this model facilitates working with collaboration among people 
 
 Therefore, all relevant project data are public. The developed tasks are accessible and open to the participation of the community. This is intended to cultivate an environment of trust and respect, encouraging users to collaborate. In this adaptable and flexible atmosphere, nothing is imposed or taken for granted.
 
-## AsyncAPI governance model
+## ***AsyncAPI governance model***
 
 Partnering with Postman was a crucial moment for assuring the efforts of the AsyncAPI Initiative. This event was the propellant to accelerate the transfer of AsyncAPI to an open government foundation to assure the community that a single company does not control the AsyncAPI Initiative. In doing so, the specification safeguarded against private interests.
 
-In the AsyncAPI governance model, you can find two essential roles: contributor and committer. A contributor is a person that contributes to the project code, docs, or other artifacts. A committer (widely known also as maintainer) is a person that contributes regularly and is invited by other committers to manage the repository, to have more privileges, and to approve pull requests.
+***In the AsyncAPI governance model, you can find two essential roles: contributor and committer. A contributor is a person that contributes to the project code, docs, or other artifacts. A committer (widely known also as maintainer) is a person that contributes regularly and is invited by other committers to manage the repository, to have more privileges, and to approve pull requests.***
 
-To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join.
+***To supervise the initiative, it was decided to create a Technical Steering Committee (TSC), made up of the people who contribute most actively to the project. Anyone with interest can become a member of the TSC. All you have to do is become a maintainer of one of the AsyncAPI projects. To become a maintainer, it is necessary to regularly contribute to one of the projects; after that, other maintainers will invite them to join.***
 
 Let's see an example to understand these roles better: 
 
@@ -52,15 +52,15 @@ Let's see an example to understand these roles better:
 
 [Voice-over for the animation- " As we said before, the maintainers are the people in charge of managing a repository. In this case, the maintainers are the workers wearing the yellow helmet, and the people wearing the white helmet are the contributors.
 
-If a contributor comes up with a relevant idea for the project, they should consult the TSC. If the TSC, which in this case would be the architects, approves the idea, work is done on the execution of the idea. In this case, a couple of buildings"].
+***If a contributor comes up with a relevant idea for the project, they should consult the TSC. If the TSC, which in this case would be the architects, approves the idea, work is done on the execution of the idea. In this case, a couple of buildings"].***
 
 The TSC is constituted by maintainers because the goal is to empower "working" individuals, not companies that "pay". In other words, it provides equal power to individual and corporate contributors.
 
-The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company.
+***The TSC's system of operation is by voting. An issue or debate is posted, and the members vote asynchronously and publicly on their decision. The value of the vote of all contributors is equal, thus ensuring the project that there is no risk of one company having a majority of the voters. That is why there is a rule that only 1/4 of the voters can be affiliated with the same company.***
 
 ## Putting theory into practice
 
-Summing up, AsyncAPI is committed to democratic management based on two principles: horizontality in decision making and transparency in project management. From the beginning of the specification, AsyncAPI has relied on collective effort and group identity. The means are as crucial as the goal. Responsibilities are shared, understanding that a community can only achieve success jointly.
+Summing up, ***AsyncAPI is committed to democratic management based on two principles: horizontality in decision making and transparency in project management. From the beginning of the specification, AsyncAPI has relied on collective effort and group identity. The means are as crucial as the goal. Responsibilities are shared, understanding that a community can only achieve success jointly.***
 
 For doing so, AsyncAPI has several tools that ensure transparency within the project’s open-governance management. Let's see how theory is put into practice:
 
@@ -80,4 +80,9 @@ The TSC makes decisions on financial expenses through voting.
 
 Thanks so much for joining us! I hope you enjoyed it! Enough for today's video. Don't forget to join us in the following video.
 See you soon!
+
+---
+
+* The italic and bold text is the script of the short version of the video.
+
 
