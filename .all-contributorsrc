@@ -13,6 +13,16 @@
       "contributions": [
         "eventOrganizing",
         "ideas"
+]
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Sihamtahi",
+      "name": "TAHI Siham",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38142214?v=4",
+      "profile": "https://github.com/Sihamtahi",
+      "contributions": [
+        "review"
       ]
     }
   ],
@@ -22,4 +32,10 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
+=======
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "training",
+  "projectOwner": "asyncapi"
 }

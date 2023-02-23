@@ -15,6 +15,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Barbanio"><img src="https://avatars.githubusercontent.com/u/77982319?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Barbanio González</b></sub></a><br /><a href="#eventOrganizing-Barbanio" title="Event Organizing">📋</a> <a href="#ideas-Barbanio" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sihamtahi"><img src="https://avatars.githubusercontent.com/u/38142214?v=4?s=100" width="100px;" alt="TAHI Siham"/><br /><sub><b>TAHI Siham</b></sub></a><br /><a href="https://github.com/asyncapi/training/pulls?q=is%3Apr+reviewed-by%3ASihamtahi" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
