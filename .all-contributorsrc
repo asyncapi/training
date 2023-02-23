@@ -4,6 +4,16 @@
   ],
   "imageSize": 100,
   "commit": false,
+  "contributors": [
+    {
+      "login": "Barbanio",
+      "name": "Barbanio González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77982319?v=4",
+      "profile": "https://github.com/Barbanio",
+      "contributions": [
+        "eventOrganizing",
+        "ideas"
+]
   "commitConvention": "angular",
   "contributors": [
     {
@@ -17,6 +27,12 @@
     }
   ],
   "contributorsPerLine": 7,
+  "projectName": "training",
+  "projectOwner": "asyncapi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+=======
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
