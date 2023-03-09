@@ -1,3 +1,5 @@
+> video storyboard https://docs.google.com/presentation/d/1WAlxxo-neqac5hczq8sCTMYx9jqelwvZ
+
 # Video 1: What are APIs
 
 - What are APIs
@@ -17,7 +19,7 @@ Let’s go!
 
 APIs allow your products and services to communicate with others, without needing to know how they are implemented. An API is a set of definitions and protocols used to develop and integrate application software.
 
-For communicating we need to be on the same page; it's the same for machines. You see, API is an user interface that enables interaction and communication between software and a person.
+For communicating efficiently with each other, we need to be on the same page; it's the same for machines. You see, API is a user interface that enables interaction and communication between software and a person.
 
 Each API is designed in a particular programming language and with distinct specifications that define it. APIs may include specifications for data structures, routines, object classes, or variables; all based on your selected interface.  
 
@@ -29,9 +31,7 @@ APIs are an essential part of the development process of any application, but, i
 
 Have you ever wondered when and how APIs were born? Do you know how old they are? Not that long ago... The API story took baby steps around the beginning of the new millennium. APIs began growing very quickly, becoming soon a fundamental piece of the digital world where we live. 
 
-But, not that fast! Let’s go back to their roots: The cloud computing company Salesforce made the Internet the medium in which its service would live, based from its origins on an API. 
-
-Going even deeper, the official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification, also creator of the Representational State Transfer (REST) architectural style. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. As well their misfortunes, and dreams. Their initial history, after all.
+The official arrival and introduction to the public of APIs took place with the dissertation written by Roy Fielding, one of the main authors of the HTTP specification, also creator of the Representational State Transfer (REST) architectural style. That was a fundamental step to understanding the childhood adventures and quick growth of APIs. As well their misfortunes, and dreams. Their initial history, after all.
 
 Beyond emotions, the beginning of APIs took solid steps with a certain constancy thanks to e-commerce. At the end of 2000, eBay launched its API together with a program that, trying to boost the area of e-commerce solutions, also encouraged APIs in the process. Moreover, eBay was not alone in this endeavor: in the summer of 2002, the giant Amazon followed suit.
 
@@ -55,23 +55,23 @@ E-commerce, Social media, cloud computing, mobility… Without a doubt, we are d
 
 Now that we have covered the origins and popularization of API, let's talk about the types of APIs.
 
-- ***Web services APIs***: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
+* ***Web services APIs***: these are the application development interfaces that enable the exchange of information between an application and a web service. (A web service is a software that provides access to a particular service via a URL). 
 
     ***There are four types*** of Web services APIs:
 
-    •	***SOAP*** (Simple Object Access Protocol), ***a standard protocol for exchanging information and data in XML between two objects.***
+    *	***SOAP*** (Simple Object Access Protocol), ***a standard protocol for exchanging information and data in XML between two objects.***
 
-    •	***XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.***
+    *	***XML-RPC, a remote procedure call protocol that uses XML as the data format and HTTP calls as the communication system.***
 
-    •	***JSON-RPC, same as XML-RPC but in JSON format.***
+    *	***JSON-RPC, same as XML-RPC but in JSON format.***
 
-    •	***REST*** (Representational State Transfer), ***a software architecture for hypermedia systems on the World Wide Web; a REST API often uses the HTTP protocol.***
+    *	***REST*** (Representational State Transfer), ***a software architecture for hypermedia systems on the World Wide Web; a REST API often uses the HTTP protocol.***
 
 - ***Library-based APIs: These are APIs designed for a specific programming language. They are a means to reuse libraries from other software or other parts of the same software.***
 
 - ***Function APIs in operating systems: software programs are continuously interacting with operating systems (OS). In many cases, the way they do so is through APIs.*** Operating systems such as Windows have APIs that enable such communication between programs and the OS.
 
-## ***Benefits of APIs***
+## ***Benefits of Web APIs***
 
 We have highlighted how APIs allow applications to share the information previously, this is called Integration. Now let's discuss other benefits that APIs have:
 
